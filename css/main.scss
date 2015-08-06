@@ -1,5 +1,4 @@
 ---
-layout: null
 ---
 @charset "utf-8";
 
@@ -45,11 +44,4 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "syntax-highlighting",
-        "foundation",
-        "posts",
-        "fontawesome/font-awesome",
-        "menu",
-        "general"
-;
+@import "syntax-highlighting","foundation","posts","fontawesome/font-awesome","menu","general";
