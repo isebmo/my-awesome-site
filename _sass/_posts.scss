@@ -1,0 +1,58 @@
+$bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
+
+.posts-list-container {
+  position: relative;
+  overflow: hidden;
+
+  &:hover {
+
+    .post-thumbnail-title {
+      transition: bottom 0.5s;
+      bottom: 0;
+
+    }
+  }
+}
+
+.post-thumbnail-title {
+  position: absolute;
+  bottom: -1.8em;
+  width: 100%;
+  text-align: right;
+  padding: 0% 2%;
+  background-color: $bgc-post-th-overlay;
+  transition: bottom 0.3s;
+
+  & > *, a {
+    color: white;
+  }
+
+  a {
+    text-transform: capitalize;
+  }
+
+}
+
+.menu-side-container {
+  position: fixed;
+  height: 100%;
+}
+
+.menu-side-bottom {
+  margin: 1em 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.menu-side-icon {
+  display: inline-block;
+  padding: 0.5em 0.5em;
+  border-radius: 0.5em;
+
+  &:hover {
+    color: #FFFFFF;
+    background-color: #1d9d74;
+  }
+}

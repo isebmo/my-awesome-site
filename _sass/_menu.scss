@@ -1,0 +1,112 @@
+.top-bar-section > ul > li > a > i {
+  vertical-align: middle;
+}
+
+@mixin fa-XXX-hover-after() {
+  position: relative;
+  top: 0px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+@mixin fa-XXX-after() {
+  position: absolute;
+  top: -14px;
+}
+
+.top-bar-section {
+  .fa-archive:after {
+    content: "  archives";
+    @include fa-XXX-after;
+  }
+
+
+  .fa-transition-content:hover {
+    .fa-archive:after {
+      @include fa-XXX-hover-after;
+    }
+
+  }
+
+  .fa-info-circle:after {
+    content: "  à propos";
+    @include fa-XXX-after;
+  }
+
+
+  .fa-transition-content:hover {
+    .fa-info-circle:after {
+      @include fa-XXX-hover-after;
+    }
+
+  }
+
+}
+
+#menu {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  //width: 13.755em;
+  right: -13.755em;
+  left: 0;
+  height: 100%;
+  -webkit-transform: translate(0px, 0px);
+  -moz-transform: translate(0px, 0px);
+  -o-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+  -webkit-transition: 0.15s ease;
+  -moz-transition: 0.15s ease;
+  -o-transition: 0.15s ease;
+  transition: 0.15s ease;
+  list-style: inherit;
+  background: url('../images/bg-nav-1200x1000.jpg') no-repeat center bottom;
+  background-size: cover;
+
+  li {
+    list-style-type: none;
+  }
+
+  li:hover {
+
+  }
+
+  ul {
+    display: block;
+    width: 11em;
+    top: $topbar-height;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+  }
+
+  &.active {
+    -webkit-transform: translate(-13.755em, 0px);
+    -moz-transform: translate(-13.755em, 0px);
+    -o-transform: translate(-13.755em, 0px);
+    -ms-transform: translate(-13.755em, 0px);
+    transform: translate(-13.755em, 0px);
+  }
+}
+
+.container {
+  -webkit-transform: translate3d(0px, 0px, 0px);
+  -moz-transform: translate3d(0px, 0px, 0px);
+  -o-transform: translate3d(0px, 0px, 0px);
+  -ms-transform: translate3d(0px, 0px, 0px);
+  transform: translate3d(0px, 0px, 0px);
+  -webkit-transition: 0.15s ease;
+  -moz-transition: 0.15s ease;
+  -o-transition: 0.15s ease;
+  transition: 0.15s ease;
+
+  &.active {
+    -webkit-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
+    -moz-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
+    -o-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
+    -ms-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
+    transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
+  }
+}
+

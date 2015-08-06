@@ -1,23 +1,33 @@
 ---
 layout: default
 ---
+<!-- main content goes here -->
+<ul id="posts-list" class="medium-block-grid-2 xlarge-block-grid-3 ">
+    {% for post in site.posts limit: 8 %}
+    <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+            <div class="posts-list-container">
+                {% if post.fimg %}
+                <img src="images/{{post.fimg}}">
+                {% endif %}
+                <div class="post-thumbnail-title">
+                    <h3>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </h3>
+                    <span>par {{ site.data.author[post.author].nickname }}, le {{ post.date | date: "%d/%m/%Y" }}</span>
+                </div>
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
-      </li>
+            </div>
+        </a>
+    </li>
     {% endfor %}
-  </ul>
+</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="infinite-spinner"></div>
 
-</div>
+
+
+
+
+
+
