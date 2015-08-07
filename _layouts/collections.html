@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% for item in site.tweets limit:6 %}
+<li>qs{{site.tweets}}
+    <a href="{{ item.url }}">
+        <img src="{{ item.thumb }} " alt="">
+        </figure>
+        <p>{{ item.title }}</p>
+    </a>
+</li>
+{% endfor %}
