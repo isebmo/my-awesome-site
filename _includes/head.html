@@ -13,6 +13,13 @@
         function downloadJSAtOnload() {
         var element = document.createElement("script");
         element.src = "{{ site.baseurl }}/js/vendor/modernizr.js";
+        element.src="{{ site.baseurl }}/js/vendor/jquery.min.js";
+        element.src="{{ site.baseurl }}/js/vendor/fastclick.js";
+        element.src="{{ site.baseurl }}/js/vendor/foundation.min.js";
+        element.src="{{ site.baseurl }}/js/vendor/placeholder.js";
+        element.src="{{ site.baseurl }}/js/vendor/readingTime.min.js";
+        element.src="{{ site.baseurl }}/js/vendor/infinite-jekyll.js";
+        element.src="{{ site.baseurl }}/js/vendor/app.js";
         document.body.appendChild(element);
         }
         if (window.addEventListener)
@@ -21,5 +28,4 @@
         window.attachEvent("onload", downloadJSAtOnload);
         else window.onload = downloadJSAtOnload;
     </script>
-
 </head>
