@@ -111,7 +111,7 @@ $row-width: 100%;
 // $steel       : #666666;
 // $charcoal    : #555555;
 // $tuatara     : #444444;
-// $oil         : #333333;
+ $oil         : #333333;
 // $jet         : #222222;
 // $black       : #000000;
 
@@ -123,12 +123,13 @@ $success-color: #43AC6A;
 $warning-color: #f08a24;
 $info-color: #a0d3e8;
 
-$bg-container: white;
+$bg-container: #eceded;
 
 // We use these to control various global styles
 // $body-bg: $white;
 // $body-font-color: $jet;
 // $body-font-family: $font-family-sans-serif;
+$body-font-family: 'Merriweather', serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
 
@@ -215,7 +216,7 @@ $bg-container: white;
 // $header-font-family: $body-font-family;
 // $header-font-weight: $font-weight-normal;
 // $header-font-style: normal;
-// $header-font-color: $jet;
+ $header-font-color: #7AA01F;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
@@ -396,7 +397,7 @@ $include-xl-html-block-grid-classes: true;
 // We use this to control the maximum number of block grid elements per row
 // $block-grid-elements: 12;
 // $block-grid-default-spacing: rem-calc(20);
-$block-grid-default-spacing: 0;
+$block-grid-default-spacing: rem-calc(10);
 
 // $align-block-grid-to-grid: false;
 // @if $align-block-grid-to-grid {$block-grid-default-spacing: $column-gutter;}
@@ -1403,8 +1404,8 @@ $block-grid-default-spacing: 0;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-// $topbar-bg-color: $oil;
-// $topbar-bg: $topbar-bg-color;
+ $topbar-bg-color: $oil;
+ $topbar-bg: $topbar-bg-color;
 
 // Height and margin
 // $topbar-height: rem-calc(45);
@@ -1415,16 +1416,16 @@ $block-grid-default-spacing: 0;
 // $topbar-title-font-size: rem-calc(17);
 
 // Set the link colors and styles for top-level nav
-// $topbar-link-color: $white;
-// $topbar-link-color-hover: $white;
+ $topbar-link-color: #BFDC7A;
+ $topbar-link-color-hover: $topbar-bg-color;
 // $topbar-link-color-active: $white;
 // $topbar-link-color-active-hover: $white;
 // $topbar-link-weight: $font-weight-normal;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
-// $topbar-link-bg-hover: #1d9d74;
-// $topbar-link-bg-color-hover: #1d9d74;
+ $topbar-link-bg-hover: $topbar-link-color;
+ $topbar-link-bg-color-hover: $topbar-bg;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;

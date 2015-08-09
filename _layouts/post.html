@@ -3,41 +3,41 @@ layout: default
 ---
 <div class="post">
 
-    <header class="post-header">
-        <div class="row small-collapse">
-            <div class="medium-12 columns">
-                {% if page.fimg %}
-                <img style="width: 100%" src="{{ site.baseurl }}/images/{{page.fimg}}">
-                {% endif %}
-            </div>
+    <header class="post-header row small-collapse">
+        <div class="medium-12 columns">
+            {% if page.fimg %}
+            <img src="{{ site.baseurl }}/images/{{page.fimg}}">
+            {% endif %}
         </div>
     </header>
 
-    <article class="post-content">
-        <div style="margin-bottom: 2em;" class="row">
-            <div class="medium-8 medium-offset-2 columns text-center">
+    <article class="post-content-row row">
+        <div class="large-8 large-offset-2 medium-10 medium-offset-1 columns post-content-container">
+            <div class="text-center">
                 <h1 class="post-title">{{ page.title }}</h1>
-
                 <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}</p>
                 <span><i class="fa fa-clock-o fa-fw">&nbsp;</i><div style="display: inline" class="eta"></div>{{ site.data.lang['postReadingTimeLabel'] }}</span>
-                <span class="hr-text-center post-text-category"><i class="fa fa-tag"></i>&nbsp;Sport</span>
+                <span class="hr-text-center post-text-category"><i class="fa fa-tag"></i>&nbsp;{% for cat in page.categories %}{{ cat }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
             </div>
-        </div>
+            <span class="text-justify post-content">{{ content }}</span>
 
-        <div class="row">
-            <div class="content-post medium-8 columns small-centered text-justify">
-                <span>{{ content }}</span>
+            <div class="author-bio-container row">
                 <span class="hr-text-center">Auteur</span>
-            </div>
-            <div id="author-bio" class="small-8 medium-4 small-centered columns text-center">
-                <img alt=""
-                     src="http://1.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G"
-                     height="80" width="80">
-                <h3><div></div> iSebmo</h3>
-                <p>Tu Fin digniss, non sodales mauris molestie nec. Donec a nis ligula facilisis dignissim rutrum in mi. eu laoreet risus eleifend vel. Nullam imperdiet tincidunt. Aliquame erat volutpat.</p>
-            </div>
-        </div>
 
+                <div id="author-bio" class=" medium-6 medium-offset-3 small-10 small-offset-1 columns text-center">
+                    <img alt=""
+                            src="http://1.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=80&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G"
+                            height="80" width="80">
+
+                    <h3>
+                        <div></div>
+                        {{ site.data.author[page.author].nickname }}
+                    </h3>
+                    <p>{{ site.data.author[page.author].bio }}</p>
+                </div>
+            </div>
+
+        </div>
     </article>
 
     <footer>

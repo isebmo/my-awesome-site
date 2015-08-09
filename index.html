@@ -8,7 +8,9 @@ layout: default
         <a href="{{ site.baseurl }}{{ post.url }}">
             <div class="posts-list-container">
                 {% if post.fimg %}
-                <img src="images/{{post.fimg}}">
+                <img class="posts-list-img" src="images/{{post.fimg}}">
+                {% else %}
+                <img class="posts-list-img" src="http://lorempixel.com/1280/860/nature">
                 {% endif %}
                 <div class="post-thumbnail-title">
                     <h3>
@@ -16,7 +18,7 @@ layout: default
                     </h3>
                     <span>par {{ site.data.author[post.author].nickname }}, le {{ post.date | date: "%d/%m/%Y" }}</span>
                 </div>
-
+                <div class="overlay"></div>
             </div>
         </a>
     </li>

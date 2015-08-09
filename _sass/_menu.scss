@@ -56,13 +56,12 @@
   -o-transform: translate(0px, 0px);
   -ms-transform: translate(0px, 0px);
   transform: translate(0px, 0px);
-  -webkit-transition: 0.15s ease;
-  -moz-transition: 0.15s ease;
-  -o-transition: 0.15s ease;
-  transition: 0.15s ease;
+  -webkit-transition: 0.50s ease;
+  -moz-transition: 0.50s ease;
+  -o-transition: 0.50s ease;
+  transition: 0.50s ease;
   list-style: inherit;
-  background: url('../images/bg-nav-1200x1000.jpg') no-repeat center bottom;
-  background-size: cover;
+  background-color: $bg-container;
 
   li {
     list-style-type: none;
@@ -96,17 +95,17 @@
   -o-transform: translate3d(0px, 0px, 0px);
   -ms-transform: translate3d(0px, 0px, 0px);
   transform: translate3d(0px, 0px, 0px);
-  -webkit-transition: 0.15s ease;
-  -moz-transition: 0.15s ease;
-  -o-transition: 0.15s ease;
-  transition: 0.15s ease;
+  -webkit-transition: 0.50s ease;
+  -moz-transition: 0.50s ease;
+  -o-transition: 0.50s ease;
+  transition: 0.50s ease;
 
   &.active {
-    -webkit-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
-    -moz-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
-    -o-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
-    -ms-transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
-    transform: translate3d(-8em,-12em, 0em) scale3d(0.7, 0.70, 1);
+    -webkit-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
+    -moz-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
+    -o-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
+    -ms-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
+    transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
   }
 }
 
