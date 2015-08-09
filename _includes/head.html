@@ -9,5 +9,23 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-    <script src="{{ site.baseurl }}/js/vendor/modernizr.js"></script>
+    <script type="text/javascript">
+        function downloadJSAtOnload() {
+        var element = document.createElement("script");
+        element.src = "{{ site.baseurl }}/js/vendor/modernizr.js";
+        element.src="{{ site.baseurl }}/js/vendor/jquery.min.js";
+        element.src="{{ site.baseurl }}/js/vendor/fastclick.js";
+        element.src="{{ site.baseurl }}/js/vendor/foundation.min.js";
+        element.src="{{ site.baseurl }}/js/vendor/placeholder.js";
+        element.src="{{ site.baseurl }}/js/vendor/readingTime.min.js";
+        element.src="{{ site.baseurl }}/js/vendor/infinite-jekyll.js";
+        element.src="{{ site.baseurl }}/js/vendor/app.js";
+        document.body.appendChild(element);
+        }
+        if (window.addEventListener)
+        window.addEventListener("load", downloadJSAtOnload, false);
+        else if (window.attachEvent)
+        window.attachEvent("onload", downloadJSAtOnload);
+        else window.onload = downloadJSAtOnload;
+    </script>
 </head>
