@@ -298,10 +298,12 @@ $body-font-family: 'Merriweather', serif;
 
 // We use these to style blockquotes
 // $blockquote-font-color: scale-color($header-font-color, $lightness: 35%);
+$blockquote-font-color: $grey-color;
 // $blockquote-padding: rem-calc(9 20 0 19);
 // $blockquote-border: 1px solid $gainsboro;
 // $blockquote-cite-font-size: rem-calc(13);
 // $blockquote-cite-font-color: scale-color($header-font-color, $lightness: 23%);
+$blockquote-cite-font-color: $grey-color;
 // $blockquote-cite-link-color: $blockquote-cite-font-color;
 
 // Acronym styles
