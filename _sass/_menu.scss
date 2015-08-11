@@ -109,3 +109,12 @@
   }
 }
 
+.top-bar {
+  border-bottom: 2px solid white;
+  height: 2.96em;
+
+  .top-bar-section ul li > a {
+    border-bottom: 2px solid white;
+  }
+}
+
