@@ -117,13 +117,13 @@ $row-width: 100%;
 
 // We use these as default colors throughout
 $primary-color: #000000;
-$secondary-color: #e7e7e7;
+$secondary-color: #eb911c;
 $alert-color: #f04124;
 $success-color: #43AC6A;
 $warning-color: #f08a24;
 $info-color: #a0d3e8;
 
-$bg-container: #eceded;
+$bg-container: $oil;
 
 // We use these to control various global styles
 // $body-bg: $white;
@@ -216,7 +216,7 @@ $body-font-family: 'Merriweather', serif;
 // $header-font-family: $body-font-family;
 // $header-font-weight: $font-weight-normal;
 // $header-font-style: normal;
- $header-font-color: #7AA01F;
+ $header-font-color: $primary-color;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
@@ -253,7 +253,7 @@ $body-font-family: 'Merriweather', serif;
 // $paragraph-font-family: inherit;
 // $paragraph-font-weight: $font-weight-normal;
 // $paragraph-font-size: 1rem;
-// $paragraph-line-height: 1.6;
+ $paragraph-line-height: 1.9;
 // $paragraph-margin-bottom: rem-calc(20);
 // $paragraph-aside-font-size: rem-calc(14);
 // $paragraph-aside-line-height: 1.35;
@@ -272,9 +272,9 @@ $body-font-family: 'Merriweather', serif;
 
 // We use these to style anchors
 // $anchor-text-decoration: none;
-// $anchor-text-decoration-hover: none;
-// $anchor-font-color: $primary-color;
-// $anchor-font-color-hover: scale-color($anchor-font-color, $lightness: -14%);
+// $anchor-text-decoration-hover: underline;
+ $anchor-font-color: $secondary-color;
+ $anchor-font-color-hover: scale-color($anchor-font-color, $lightness: 14%);
 
 // We use these to style the <hr> element
 // $hr-border-width: 1px;
@@ -285,7 +285,7 @@ $body-font-family: 'Merriweather', serif;
 // We use these to style lists
 // $list-font-family: $paragraph-font-family;
 // $list-font-size: $paragraph-font-size;
-// $list-line-height: $paragraph-line-height;
+ $list-line-height: $paragraph-line-height;
 // $list-margin-bottom: $paragraph-margin-bottom;
 // $list-style-position: outside;
 // $list-side-margin: 1.1rem;
@@ -1418,15 +1418,15 @@ $block-grid-default-spacing: rem-calc(10);
 // $topbar-title-font-size: rem-calc(17);
 
 // Set the link colors and styles for top-level nav
- $topbar-link-color: #BFDC7A;
- $topbar-link-color-hover: $topbar-bg-color;
+ $topbar-link-color: white;
+ $topbar-link-color-hover: $secondary-color;
 // $topbar-link-color-active: $white;
 // $topbar-link-color-active-hover: $white;
 // $topbar-link-weight: $font-weight-normal;
 // $topbar-link-font-size: rem-calc(13);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
- $topbar-link-bg-hover: $topbar-link-color;
+ $topbar-link-bg-hover: $topbar-bg-color;
  $topbar-link-bg-color-hover: $topbar-bg;
 // $topbar-link-bg-active: $primary-color;
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
@@ -1475,8 +1475,8 @@ $block-grid-default-spacing: rem-calc(10);
 // $topbar-input-height: rem-calc(28);
 
 // Divider Styles
-// $topbar-divider-border-bottom: solid 1px scale-color($topbar-bg-color, $lightness: 13%);
-// $topbar-divider-border-top: solid 1px scale-color($topbar-bg-color, $lightness: -50%);
+ $topbar-divider-border-bottom: solid 1px scale-color($secondary-color, $lightness: 13%);
+ $topbar-divider-border-top: solid 1px scale-color($secondary-color, $lightness: -50%);
 
 // Sticky Class
 // $topbar-sticky-class: ".sticky";

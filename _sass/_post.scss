@@ -12,13 +12,25 @@
   .post-content-container {
     box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     padding: 1em 5em 1em 5em;
+    background: white;
+
 
     @media only screen and (max-width: $small-breakpoint) {
       padding: 1em 1em 1em 1em;
+
+      .note {
+        margin-left: -1.65em;
+        margin-right: -1.30em;
+      }
     }
 
     @media only screen and (min-width: $small-breakpoint) and (max-width: $medium-breakpoint) {
       padding: 1em 2em 1em 2em;
+
+      .note {
+        margin-left: -2.65em;
+        margin-right: -2.30em;
+      }
     }
 
     .post-title {
@@ -39,4 +51,39 @@
       }
     }
   }
+}
+
+.note {
+  margin: 30px 0;
+  margin-left: -5.65em;
+  margin-right: -5.30em;
+  padding: 10px 10px 10px;
+  position: relative;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2), inset 0 -1px 0 rgba(0, 0, 0, 0.3);
+  background-color: #7e6d42;
+  background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background-image: linear-gradient(to bottom, #FF9D06 0%, #EE9F3A 100%);
+  text-transform: lowercase;
+}
+
+.note:before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: 0;
+  border-color: transparent #FF9D06 #FF9D06 transparent;
+  border-style: solid;
+  border-width: 5px;
+  width: 0;
+  height: 0;
+}
+
+.note:after {
+  font-family: FontAwesome;
+  content: "\f02c";
+  color: $oil;
+  position: absolute;
+  top: 0.03em;
+  left: 1.5em;
+  font-size: 28px;
 }

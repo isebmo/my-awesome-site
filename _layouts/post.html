@@ -17,12 +17,12 @@ layout: default
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-meta">{{ page.date | date: "%d/%m/%Y" }}</p>
                 <span><i class="fa fa-clock-o fa-fw">&nbsp;</i><div style="display: inline" class="eta"></div>{{ site.data.lang['postReadingTimeLabel'] }}</span>
-                <span class="hr-text-center post-text-category"><i class="fa fa-tag"></i>&nbsp;{% for cat in page.categories %}{{ cat }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+                <div class="note">{% for cat in page.categories %}{{ cat }}{% unless forloop.last %}, {% endunless %}{% endfor %}</div>
             </div>
             <span class="text-justify post-content">{{ content }}</span>
-
+            <div class="note text-center">auteur</div>
             <div class="author-bio-container row">
-                <span class="hr-text-center">Auteur</span>
+
 
                 <div id="author-bio" class=" medium-6 medium-offset-3 small-10 small-offset-1 columns text-center">
                     <img alt=""
