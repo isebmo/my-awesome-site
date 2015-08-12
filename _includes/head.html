@@ -10,7 +10,7 @@
     <script type="text/javascript">
     function downloadJSAtOnload() {
     var element = document.createElement("script");
-    element.src = "js/app.min.js";
+    element.src = "{{ "/js/app.min.js" | prepend: site.baseurl }}";
     document.body.appendChild(element);
     }
     if (window.addEventListener)
