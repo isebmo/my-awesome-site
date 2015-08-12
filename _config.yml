@@ -14,8 +14,7 @@ github_username:  isebmo
 # Build settings
 markdown: kramdown
 
-sass:
-    sass_dir: _sass
+exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 collections:
   tweets:

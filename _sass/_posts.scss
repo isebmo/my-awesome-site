@@ -4,11 +4,10 @@ $bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
   position: relative;
   overflow: hidden;
 
+  animation: fadein 2s;
+
   img {
     transition: all 1s;
-    -moz-transition: all 1s;
-    -webkit-transition: all 1s;
-    -o-transition: all 1s;
   }
 
   &:hover {
@@ -20,10 +19,6 @@ $bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
 
     img {
       transform: scale(1.05);
-      -ms-transform: scale(1.05);
-      -webkit-transform: scale(1.05);
-      -o-transform: scale(1.05);
-      -moz-transform: scale(1.05);
     }
 
     /* .overlay {
@@ -34,10 +29,6 @@ $bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
   }
 
   /*.overlay {
-    -webkit-transition: all 1s ease-in-out;
-    -moz-transition: all 1s ease-in-out;
-    -o-transition: all 1s ease-in-out;
-    -ms-transition: all 1s ease-in-out;
     transition: all 1s ease-in-out;
     background-color: rgba(0, 0, 0, 0.35);
     position: absolute;
@@ -93,14 +84,6 @@ $bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
     color: #FFFFFF;
     background-color: #1d9d74;
   }
-}
-
-#posts-list {
-  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
-  -moz-animation: fadein 2s; /* Firefox < 16 */
-  -ms-animation: fadein 2s; /* Internet Explorer */
-  -o-animation: fadein 2s; /* Opera < 12.1 */
-  animation: fadein 2s;
 }
 
 @keyframes fadein {
