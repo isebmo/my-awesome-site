@@ -34,6 +34,13 @@ $(document).ready(function() {
     });
 
 
+    $( "#posts-list").find("li" ).on( "swipe", swipeHandler );
+
+    function swipeHandler( event ){
+        $( event.target ).addClass( "swipe" );
+        console.log('swipe');
+    }
+
 });
 
 var postURLs;
