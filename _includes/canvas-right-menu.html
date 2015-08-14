@@ -1,21 +1,20 @@
 <!-- Off Canvas Menu -->
 <nav id="menu">
     <!-- whatever you want goes here -->
-    <a href="#menu" class="menu-link-tmp"></a>
-    <ul>
-        {% for page in site.pages %}
-        {% if page.title %}
-        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-        <li><a href="#"><i class="fa fa-home fa-fw"></i>&nbsp; Accueil</a></li>
-        <li><a href="#"><i class="fa fa-amazon fa-fw"></i>&nbsp; Sponsor</a></li>
-        <li><a href="#"><i class="fa fa-rss fa-fw"></i>&nbsp; RSS</a></li>
-        <li><a href="#"><i class="fa fa-flickr fa-fw"></i>&nbsp; Flickr</a></li>
-        <li><a href="#"><i class="fa fa-facebook fa-fw"></i>&nbsp; Facebook</a></li>
-        <li><a href="#"><i class="fa fa-twitter fa-fw"></i>&nbsp; Twitter</a></li>
-        <li><a href=""><i class="fa fa-archive fa-1x"></i></a></li>
-        <li><a href=""><i class="fa fa-search fa-2x"></i></a></li>
-        <li><a href=""><i class="fa fa-info-circle fa-2x"></i></a></li>
+    <ul style="text-transform:uppercase; text-align:center;">
+        <li style="border-bottom: 1px solid white; margin-bottom:1em;"><a href="#">Accueil</a></li>
+        <li><a href="{{ site.baseurl }}/archives/">Archives</a></li>
+        <li><a onclick="showRandomArticle()" href="#">Au hasard</a></li>
+        <li><a href="{{ site.baseurl }}/feed.xml">RSS</a></li>
+        <li><a href="{{ site.baseurl }}/about/">À Propos</a></li>
+        <li style="border-bottom: 1px solid white;margin-top: 1em;margin-bottom:1em;"></li>
+        <li class="show-for-small"><a href="{{ site.amazon_url }}"><i class="fa fa-amazon fa-fw"></i>&nbsp; Sponsor</a></li>
+        <li style="position: absolute; bottom: 0;" class="row show-for-small">
+            <div class="columns small-3"><a href="{{ site.data.author['smouret'].facebook_url }}"><i class="fa fa-facebook"></i></a></div>
+            <div class="columns small-3"><a href="{{ site.data.author['smouret'].twitter_url }}"><i class="fa fa-twitter"></i></a></div>
+            <div class="columns small-3"><a href="{{ site.data.author['smouret'].gplus_url }}"><i class="fa fa-google-plus"></i></a></div>
+            <div class="columns small-3"><a href="{{ site.data.author['smouret'].flickr_url }}"><i class="fa fa-flickr"></i></a></div>
+        </li>
     </ul>
+
 </nav>

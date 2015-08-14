@@ -16,7 +16,7 @@ layout: default
                     <h3>
                         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                     </h3>
-                    <span>par {{ site.data.author[post.author].nickname }}, le {{ post.date | date: "%d/%m/%Y" }}</span>
+                    <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
                 </div>
                 <div class="overlay"></div>
             </div>

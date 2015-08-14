@@ -4,16 +4,20 @@ $bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
   position: relative;
   overflow: hidden;
 
-  animation: fadein 2s;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
 
   img {
-    transition: all 1s;
+    transition: transform 2s cubic-bezier(0.22, 0.61, 0.36, 1);
   }
 
   &:hover {
 
+    border-color: $secondary-color;
+
     .post-thumbnail-title {
-      transition: bottom 0.5s;
+      transition: bottom .3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
       bottom: 0;
     }
 
@@ -47,10 +51,10 @@ $bgc-post-th-overlay: rgba(25, 26, 25, 0.5);
   position: absolute;
   bottom: -1.8em;
   width: 100%;
-  text-align: right;
+  text-align: center;
   padding: 0% 2%;
   background-color: $bgc-post-th-overlay;
-  transition: bottom 0.3s;
+  transition: bottom .3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
 
   & > *, a {
     color: white;

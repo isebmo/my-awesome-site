@@ -2,10 +2,6 @@
 
   @mixin hr-text-center-mixin($side) {
     content: '';
-    -webkit-box-flex: 1;
-    -moz-box-flex: 1;
-    -webkit-flex: 1;
-    -ms-flex: 1;
     flex: 1;
     height: 1px;
     margin: 0 .25em;
@@ -15,18 +11,8 @@
 
   }
 
-  display: -webkit-box;
-  display: -moz-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-
-  -webkit-box-align: center;
-  -moz-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
   align-items: center;
-
   text-align: center;
 
   &::before {
@@ -41,9 +27,17 @@
 
 .container {
   background-color: $bg-container;
-  box-shadow: 8px 8px 0px #aaa;
-  box-shadow: 0 0px 8px 8px rgba(255, 255, 255, 0.14);
-  border-radius: 10px;
+  box-shadow: 0 0 8px 8px rgba(130, 130, 130, 0.15);
+  padding: 1em;
+  transform: translate3d(0px, 0px, 0px);
+  transform-origin: top;
+  transition: .9s cubic-bezier(.13,.38,.64,1.27);
+
+  &.active {
+    transform: translate3d(-10em,9em, 0px) scale3d(0.7, 0.70, 1);
+    transform-origin: top;
+    border-radius: 10px;
+  }
 
   a:hover {
     border-bottom: 1px solid #eee;
@@ -81,8 +75,6 @@
   background-image: -ms-linear-gradient(top, #BFDC7A, #8EBF45);
   background-image: -o-linear-gradient(top, #BFDC7A, #8EBF45);
   color: #6a6340;
-  -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
 }
 

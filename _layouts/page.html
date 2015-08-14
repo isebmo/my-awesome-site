@@ -2,35 +2,17 @@
 layout: default
 ---
 
-<div class="post">
+<div class="post page">
 
-    <header class="post-header row small-collapse">
-        <div class="medium-12 columns">
-            {% if page.fimg %}
-                {% if page.fimg.local == true %}
-                    <img src="{{ site.baseurl }}/images/{{ page.fimg.img }}">
-                {% else %}
-                    <img src="{{ page.fimg.img }}">
-                {% endif %}
-            {% else %}
-                <img src="http://lorempixel.com/1280/960/nature">
-            {% endif %}
-            {% if page.fimg.credits %}
-            <span style="position: absolute; bottom: 0.5em; right: 0.5em; color: grey; font-size: small">photo de <a
-                    style="font-size: small; color: grey" href="{{ page.fimg.credits.url }}">{{ page.fimg.credits.author }}</a></span>
-            {% endif %}
-        </div>
-    </header>
+    {% include post-header.html %}
 
-    <article class="post-content-row row">
+    <article class="row">
         <div class="large-8 large-offset-2 medium-10 medium-offset-1 columns post-content-container">
-            <div class="text-center">
+            <header class="text-center">
                 <h1 class="post-title">{{ page.title }}</h1>
-                <span class="hr-text-center post-text-category"><i class="fa fa-tag"></i>&nbsp;archives</span>
-            </div>
-            <div class="text-justify">
-                {{ content }}
-            </div>
+                <div class="note"></div>
+            </header>
+            <div class="text-justify post-content">{{ content }}</div>
         </div>
     </article>
 </div>

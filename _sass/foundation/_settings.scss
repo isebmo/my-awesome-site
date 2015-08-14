@@ -111,17 +111,17 @@ $row-width: 100%;
 // $steel       : #666666;
 // $charcoal    : #555555;
 // $tuatara     : #444444;
- $oil         : #333333;
+ $oil         : #2F343A;
 // $jet         : #222222;
 // $black       : #000000;
 
 // We use these as default colors throughout
 $primary-color: #000000;
-$secondary-color: #eb911c;
+$secondary-color: #BFDC7A;
 $alert-color: #f04124;
 $success-color: #43AC6A;
 $warning-color: #f08a24;
-$info-color: #a0d3e8;
+$info-color: #BFDC7A;
 
 $bg-container: $oil;
 
@@ -223,12 +223,12 @@ $body-font-family: 'Merriweather', serif;
 // $header-text-rendering: optimizeLegibility;
 
 // We use these to control header font sizes
-// $h1-font-size: rem-calc(44);
-// $h2-font-size: rem-calc(37);
-// $h3-font-size: rem-calc(27);
-// $h4-font-size: rem-calc(23);
-// $h5-font-size: rem-calc(18);
-// $h6-font-size: 1rem;
+ $h1-font-size: rem-calc(44);
+ $h2-font-size: rem-calc(37);
+ $h3-font-size: rem-calc(27);
+ $h4-font-size: rem-calc(23);
+ $h5-font-size: rem-calc(18);
+ $h6-font-size: 1rem;
 
 // We use these to control header size reduction on small screens
 // $h1-font-reduction: rem-calc(10);
@@ -264,7 +264,7 @@ $body-font-family: 'Merriweather', serif;
 // $code-color: $oil;
 // $code-font-family: $font-family-monospace;
 // $code-font-weight: $font-weight-normal;
-// $code-background-color: scale-color($secondary-color, $lightness: 70%);
+ $code-background-color: scale-color($oil, $lightness: 90%);
 // $code-border-size: 1px;
 // $code-border-style: solid;
 // $code-border-color: scale-color($code-background-color, $lightness: -10%);
@@ -273,7 +273,7 @@ $body-font-family: 'Merriweather', serif;
 // We use these to style anchors
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: underline;
- $anchor-font-color: $secondary-color;
+ $anchor-font-color: scale-color($secondary-color, $lightness: -20%);
  $anchor-font-color-hover: scale-color($anchor-font-color, $lightness: 14%);
 
 // We use these to style the <hr> element

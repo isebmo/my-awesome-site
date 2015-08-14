@@ -70,7 +70,7 @@ $(function () {
     function fetchPostWithIndex(index, callback) {
         // var postURL = postURLs[index];
         var post = postURLs[index];
-        var postHtml = '<li><a href="' + post.url + '"><div class="posts-list-container"><img src="images/' + post.fimg + '"><div class="post-thumbnail-title"> <h3> <a href="+post.url+">' + post.title + '</a></h3><span>' + post.meta + '</span></div></div></a></li>';
+        var postHtml = '<li><a href="' + post.url + '"><div class="posts-list-container"><img src="images/' + post.fimg + '"><div class="post-thumbnail-title"> <h3> <a href="'+post.url+'">' + post.title + '</a></h3><span class="post-meta">' + post.meta + '</span></div></div></a></li>';
         $("#posts-list").append(postHtml);
         callback();
         /* $.get(postURL, function(data) {

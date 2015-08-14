@@ -5,7 +5,6 @@
 @mixin fa-XXX-hover-after() {
   position: relative;
   top: 0px;
-  -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
 
@@ -51,14 +50,7 @@
   right: -13.755em;
   left: 0;
   height: 100%;
-  -webkit-transform: translate(0px, 0px);
-  -moz-transform: translate(0px, 0px);
-  -o-transform: translate(0px, 0px);
-  -ms-transform: translate(0px, 0px);
   transform: translate(0px, 0px);
-  -webkit-transition: 0.50s ease;
-  -moz-transition: 0.50s ease;
-  -o-transition: 0.50s ease;
   transition: 0.50s ease;
   list-style: inherit;
   background-color: $bg-container;
@@ -74,38 +66,25 @@
   ul {
     display: block;
     width: 11em;
-    top: $topbar-height;
+    top: calc(15% + #{$topbar-height});
     bottom: 0;
     right: 0;
     position: absolute;
+    font-size: $h4-font-size;
+    padding-right: 1em;
+
+    @media only screen and (max-width: $small-breakpoint) {
+      width: 8em;
+    }
+
+    @media only screen and (min-width: $small-breakpoint) and (max-width: $medium-breakpoint) {
+      width: 8em;
+    }
   }
 
+  /* uncss:ignore */
   &.active {
-    -webkit-transform: translate(-13.755em, 0px);
-    -moz-transform: translate(-13.755em, 0px);
-    -o-transform: translate(-13.755em, 0px);
-    -ms-transform: translate(-13.755em, 0px);
     transform: translate(-13.755em, 0px);
-  }
-}
-
-.container {
-  -webkit-transform: translate3d(0px, 0px, 0px);
-  -moz-transform: translate3d(0px, 0px, 0px);
-  -o-transform: translate3d(0px, 0px, 0px);
-  -ms-transform: translate3d(0px, 0px, 0px);
-  transform: translate3d(0px, 0px, 0px);
-  -webkit-transition: 0.50s ease;
-  -moz-transition: 0.50s ease;
-  -o-transition: 0.50s ease;
-  transition: 0.50s ease;
-
-  &.active {
-    -webkit-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
-    -moz-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
-    -o-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
-    -ms-transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
-    transform: translate3d(-8em,-180px, 0em) scale3d(0.7, 0.70, 1);
   }
 }
 

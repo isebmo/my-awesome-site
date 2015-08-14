@@ -32,4 +32,18 @@ $(document).ready(function() {
             extracted();
         }
     });
+
+
 });
+
+var postURLs;
+var showRandomArticle = function (e) {
+    var baseurl = window.location.hostname === 'localhost' ? '' : '/my-awesome-site';
+    $.getJSON(baseurl + '/all-posts.json', function(data) {
+        postURLs = data["posts"];
+        if (postURLs.length > 0) {
+            var url = postURLs[Math.floor((Math.random() * postURLs.length) + 1)].url;
+            window.location.href = url;
+        }
+    });
+};
