@@ -4,13 +4,13 @@ layout: default
 <!-- main content goes here -->
 <ul id="posts-list" class="medium-block-grid-2 xlarge-block-grid-3 ">
     {% for post in site.posts limit: 8 %}
-    <li>
+    <li >
         <a href="{{ site.baseurl }}{{ post.url }}">
             <div class="posts-list-container">
                 {% if post.fimg %}
-                <img class="posts-list-img" src="images/{{post.fimg}}">
+                <img class="posts-list-img text-swipe" src="images/{{post.fimg}}">
                 {% else %}
-                <img class="posts-list-img" src="http://lorempixel.com/1280/860/nature">
+                <img class="posts-list-img text-swipe" src="http://lorempixel.com/1280/860/nature">
                 {% endif %}
                 <div class="post-thumbnail-title">
                     <h3>

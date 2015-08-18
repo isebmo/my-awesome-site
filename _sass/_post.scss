@@ -16,25 +16,24 @@ article header {
 
   img {
     //Gestion image full width
-    margin: 0 -4em;
-    max-width: calc(100% + 8em);
+    max-width: none;
   }
 
-  @media only screen and (max-width: $small-breakpoint) {
-    margin: 1em 0em;
-    img {
-      //Gestion image full width
-      margin: 0 -1em;
-      max-width: calc(100% + 2em);
-    }
-  }
-
-  @media only screen and (min-width: $small-breakpoint) and (max-width: $medium-breakpoint) {
+  @media only screen and (max-width: $medium-breakpoint) {
     margin: 1em 1em;
     img {
       //Gestion image full width
-      margin: 0 -2em;
-      max-width: calc(100% + 4em);
+      margin: 0 -1em;
+      width: calc(100% + 2em);
+    }
+  }
+
+  @media only screen and (min-width: $medium-breakpoint) {
+    margin: 1em 8em;
+    img {
+      //Gestion image full width
+      margin: 0 -8em;
+      width: calc(100% + 16em);
     }
   }
 }
@@ -56,7 +55,40 @@ article header {
   background: white;
   margin-top: 1em;
 
+  padding: 0;
 
+  @mixin bgInverse($bg, $c){
+    background-color: $bg;
+    color: $c;
+    transform: scale(1.5) rotate(360deg);
+    padding: 0.2em;
+    border-radius: 50%;
+  }
+
+  .fa-facebook {
+    color: #3b5998;
+    transition: .7s cubic-bezier(0, 1.01, 0.59, 1.16);
+    &:hover {
+      @include bgInverse(#3b5998, white);
+      padding: 0.2em 0.4em;
+    }
+  }
+
+  .fa-twitter {
+    color: #55acee;
+    transition: .7s cubic-bezier(0, 1.01, 0.59, 1.16);
+    &:hover {
+      @include bgInverse(#55acee, white);
+    }
+  }
+
+  .fa-google-plus {
+    color: #D84B37;
+    transition: .7s cubic-bezier(0, 1.01, 0.59, 1.16);
+    &:hover {
+      @include bgInverse(#D84B37, white);
+    }
+  }
 
   .post-title {
     text-transform: uppercase;
@@ -79,6 +111,7 @@ article header {
 
     .avatar {
       border-radius: 50%;
+      border: 3px solid $info-color;
     }
 
     .hr-text-center {
@@ -107,8 +140,8 @@ article header {
   }
 
   margin: 30px 0;
-  margin-left: -1.65em;
-  margin-right: -1.30em;
+  margin-left: -0.65em;
+  margin-right: -0.30em;
   padding: 10px 10px 10px;
   position: relative;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.2), inset 0 -1px 0 rgba(0, 0, 0, 0.3);

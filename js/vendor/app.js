@@ -33,24 +33,5 @@ $(document).ready(function() {
         }
     });
 
-
-    $( "#posts-list").find("li" ).on( "swipe", swipeHandler );
-
-    function swipeHandler( event ){
-        $( event.target ).addClass( "swipe" );
-        console.log('swipe');
-    }
-
 });
 
-var postURLs;
-var showRandomArticle = function (e) {
-    var baseurl = window.location.hostname === 'localhost' ? '' : '/my-awesome-site';
-    $.getJSON(baseurl + '/all-posts.json', function(data) {
-        postURLs = data["posts"];
-        if (postURLs.length > 0) {
-            var url = postURLs[Math.floor((Math.random() * postURLs.length) + 1)].url;
-            window.location.href = url;
-        }
-    });
-};

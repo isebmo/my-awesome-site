@@ -67,13 +67,15 @@ gulp.task('sass', function () {
 
 
 gulp.task("scripts", function () {
-    return gulp.src(['js/vendor/jquery.min.js', 'js/vendor/foundation.min.js', 'js/vendor/fastclick.js', 'js/vendor/infinite-jekyll.js', 'js/vendor/placeholder.js', 'js/vendor/readingTime.min.js', 'js/vendor/app.js'])
-        .pipe(uglify())
+    return gulp.src(['js/vendor/jquery.min.js', 'js/vendor/foundation.min.js', 'js/vendor/fastclick.js', 'js/vendor/article.js', 'js/vendor/infinite-jekyll.js', 'js/vendor/placeholder.js', 'js/vendor/readingTime.min.js', 'js/vendor/app.js'])
+        .pipe(sourcemaps.init())
         .pipe(concat("app.min.js"))
-        .pipe(gulp.dest('_site/js'))
-        .pipe(browserSync.reload({stream: true}))
-        .pipe(gulp.dest('js/'));
+        .pipe(gulp.dest('js/'))
+        .pipe(sourcemaps.write())
+        .pipe(gulp.dest('_site/js'));
 });
+
+gulp.task('scripts-watch', ['scripts'], browserSync.reload);
 
 /**
  * Watch scss files for changes & recompile
@@ -81,7 +83,7 @@ gulp.task("scripts", function () {
  */
 gulp.task('watch', function () {
     gulp.watch('_sass/**/*.scss', ['sass']);
-    gulp.watch('js/vendor/*.js', ['scripts']);
+    gulp.watch('js/vendor/*.js', ['scripts-watch']);
     gulp.watch(['index.html', '_layouts/*.html', '_includes/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
 
