@@ -69,7 +69,7 @@ Si vous comptez l’utiliser dans la pratique du vélo pensez à acheter en plus
 
 Elle est compatible avec vos sorties piscine, mais je n’ai pas testé cette fonctionnalité donc je ne peux pas vous faire part de mon ressenti.
 
-[<img class="aligncenter size-full wp-image-622" src="http://localhost/wp-content/uploads/2014/12/Garmin-Fénix-2-1.jpg" alt="Garmin Fénix 2-1" width="1000" height="667" />][4]
+[<img class="aligncenter size-full wp-image-622" src="{{ site.baseurl }}/images/2014/12/Garmin-Fénix-2-1.jpg" alt="Garmin Fénix 2-1" width="1000" height="667" />][4]
 
 # Compatibilité Ant+
 
@@ -84,7 +84,7 @@ Tous ces capteurs vous permettent d’enregistrer de précieuses données que vo
 Le Bluetooth est de la partie et permet de synchroniser votre activité sur le site Garmin Connect depuis un téléphone portable. C’est pratique, mais la synchronisation n’est pas exempte de bug… Disons que quand ça marche c’est pratique sinon faut brancher la montre sur votre ordinateur.  
 Un gros manque au niveau de la connectivité c’est *l’absence de WiFi.* contrairement au [Garmin Edge 1000 ][2]qui se synchronise automatiquement quand vous rentrez chez vous la [Garmin Fénix 2][1] ne possède pas de WiFi et c’est bien dommage.
 
-[<img class="aligncenter size-full wp-image-620" src="http://localhost/wp-content/uploads/2014/12/Garmin-Fénix-2-5.jpg" alt="Garmin Fénix 2-5" width="1000" height="667" />][7]
+[<img class="aligncenter size-full wp-image-620" src="{{ site.baseurl }}/images/2014/12/Garmin-Fénix-2-5.jpg" alt="Garmin Fénix 2-5" width="1000" height="667" />][7]
 
 # Ergonomie
 
@@ -106,8 +106,8 @@ C’est vraiment une [montre][1] *à tout faire*, le petit plus comme je le disa
  [1]: http://www.amazon.fr/Garmin-010-01040-61-Fenix-2/dp/B00IKNK6DU/ref=pd_sim_sbs_cag_1?ie=UTF8&refRID=1WRNKDSS8XDHS2Z8N9YM&tag=tfadafr-21
  [2]: http://www.amazon.fr/Garmin-Edge-1000-Compteur-sans/dp/B00JOWDPF2/ref=sr_1_2?ie=UTF8&qid=1417852408&sr=8-2&keywords=edge+1000&tag=tfadafr-21
  [3]: http://www.amazon.fr/Fenix-AF02-Support-V%C3%A9lo-pour/dp/B0040JRHG2/ref=sr_1_1?ie=UTF8&qid=1417852520&sr=8-1&keywords=fenix+2+velo&tag=tfadafr-21
- [4]: http://localhost/wp-content/uploads/2014/12/Garmin-Fénix-2-1.jpg
+ [4]: {{ site.baseurl }}/images/2014/12/Garmin-Fénix-2-1.jpg
  [5]: http://www.amazon.fr/Garmin-Ceinture-cardio-fr%C3%A9quencem%C3%A8tre-textile-Forerunner/dp/B00BI9X1QM/ref=sr_1_3?ie=UTF8&qid=1417852520&sr=8-3&keywords=fenix+2+velo&tag=tfadafr-21
  [6]: http://connect.garmin.com/fr-FR/
- [7]: http://localhost/wp-content/uploads/2014/12/Garmin-Fénix-2-5.jpg
+ [7]: {{ site.baseurl }}/images/2014/12/Garmin-Fénix-2-5.jpg
  [8]: http://www.amazon.fr/Sony-Appareil-Hybride-36-4Mpix-Capteur/dp/B00G34CVWW/ref=sr_1_1?ie=UTF8&qid=1417852464&sr=8-1&keywords=sony+a7r&tag=tfadafr-21

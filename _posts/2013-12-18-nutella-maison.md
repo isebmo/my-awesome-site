@@ -43,7 +43,7 @@ tags:
 ---
 Voici une recette toute simple de Nutella maison. Oui parce que le Nutella c’est tellement bon mais c’est aussi plein de mauvais gras. Bon n’espérez pas une recette beaucoup moins grasse 😉
 
-[<img class="alignnone size-full wp-image-142" alt="DSC05288" src="http://localhost/wp-content/uploads/2013/12/DSC05288.jpg" width="960" height="641" />][1]  
+[<img class="alignnone size-full wp-image-142" alt="DSC05288" src="{{ site.baseurl }}/images/2013/12/DSC05288.jpg" width="960" height="641" />][1]  
 Avis au amateurs de chocolat, pour cette recette vous aurez besoin des ingrédients suivants:
 
   * 160gr de chocolat patissier, préférez le noir
@@ -60,7 +60,7 @@ Laissez refroidir (si si…) puis dégustez (à conserver au frigo quelques jour
 
 PS: une petite variante consiste à torréfier les noisettes c’est encore meilleur. Mangez le tout avant vos enfants !
 
-[<img class="alignnone size-full wp-image-143" alt="DSC05289" src="http://localhost/wp-content/uploads/2013/12/DSC05289.jpg" width="960" height="641" />][2]
+[<img class="alignnone size-full wp-image-143" alt="DSC05289" src="{{ site.baseurl }}/images/2013/12/DSC05289.jpg" width="960" height="641" />][2]
 
- [1]: http://localhost/wp-content/uploads/2013/12/DSC05288.jpg
- [2]: http://localhost/wp-content/uploads/2013/12/DSC05289.jpg
+ [1]: {{ site.baseurl }}/images/2013/12/DSC05288.jpg
+ [2]: {{ site.baseurl }}/images/2013/12/DSC05289.jpg

@@ -41,7 +41,7 @@ Comme d’habitude, chez [Google][1] une nouvelle application passe par le syst�
 
 Je l’ai testée et je n’y ai pas trouvé un grand intérêt, c’est une nouvelle façon de gérer ses mails. En gros on laisse Google faire le *tri pour vous*. L’application s’occupe de trier vos mails en fonctions de leur centre d’intérêt. Vos voyages en train ou en avion sont classés automatiquement dans la catégorie voyages. De même vos factures seront classées *automatiquement* dans la catégorie achats. On perd le contrôle, du moins c’est mon impression. J’ai l’habitude de tout ranger moi-même, là il faut bien avouer que ce n’est pas utile.
 
-[<img class="aligncenter  wp-image-529" src="http://localhost/wp-content/uploads/2014/11/IMG_0405-576x1024.jpg" alt="IMG_0405" width="319" height="567" />][3]
+[<img class="aligncenter  wp-image-529" src="{{ site.baseurl }}/images/2014/11/IMG_0405-576x1024.jpg" alt="IMG_0405" width="319" height="567" />][3]
 
 Cette application se destine, je pense, aux personnes qui sont *submergées* par leurs mails et qui n’ont pas le temps de les classer. Pour ces personnes tout est plus simple même si le traitement automatique peut vous réserver quelques surprises.
 
@@ -53,6 +53,6 @@ Si vous voulez une **invitation**, contactez-moi par l’intermédiaire des comm
 
  [1]: http://google.com
  [2]: http://inbox.google.com
- [3]: http://localhost/wp-content/uploads/2014/11/IMG_0405.jpg
+ [3]: {{ site.baseurl }}/images/2014/11/IMG_0405.jpg
  [4]: https://itunes.apple.com/fr/app/mailbox/id576502633?mt=8
  [5]: http://localhost/2014/10/liphone-6-plus-dans-tous-ses-etats/ "L’iphone 6 plus dans tous ses états"

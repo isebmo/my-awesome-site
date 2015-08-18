@@ -51,7 +51,7 @@ Vous l’avez donc compris plus besoin de vous rendre en salle et de payer des p
 
 Ce n’est pas une recette *miracle*, mais une méthode *structurée* qui va vous apprendre à **gérer** votre effort afin d’atteindre vos objectifs. Elle ne se destine pas forcément à une catégorie de personnes, c’est-à-dire que vous pouvez la suivre pour **juste** perdre du poids en préparation d’une activité physique ou dans le cadre du culturisme. Cette méthode touche donc un large public. Pour ma part j’ai commencé à l’utiliser afin de *perdre du poids*, car le footing seul ne suffisait pas et puis j’ai continué pour le **plaisir** et la **confiance** qu’elle m’a apportée.
 
-[<img class="aligncenter size-full wp-image-510" src="http://localhost/wp-content/uploads/2014/10/511sv7xFIjL.jpg" alt="511sv7xFIjL" width="374" height="500" />][3]
+[<img class="aligncenter size-full wp-image-510" src="{{ site.baseurl }}/images/2014/10/511sv7xFIjL.jpg" alt="511sv7xFIjL" width="374" height="500" />][3]
 
 Les exercices que vous allez effectuer sont nombreux. Vous allez faire des tractions, des pompes, des squats, des abdos. En fait vous allez exercer votre corps dans son *intégralité* à chaque séance, à la manière d’un gymnaste. Vous deviendrez *fort*, mais surtout *endurant* ce qui vous fera progresser dans d’autres domaines ex: le ski, la course a pied.
 
@@ -68,7 +68,7 @@ Voilà vous n’avez plus qu’à vous lancer dans cette méthode de musculation
 
  [1]: http://www.amazon.fr/gp/product/2851806424/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851806424&linkCode=as2&tag=tfadafr-21&linkId=A4IZKSA3T5X53FNC
  [2]: http://www.amazon.fr/gp/product/2851808478/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=2851808478&linkCode=as2&tag=tfadafr-21&linkId=6EW6KXO7H3M5GI56
- [3]: http://localhost/wp-content/uploads/2014/10/511sv7xFIjL.jpg
+ [3]: {{ site.baseurl }}/images/2014/10/511sv7xFIjL.jpg
  [4]: http://musculaction.com/forum/
  [5]: https://www.facebook.com/MethodeLAFAY
  [6]: http://olivier-lafay.com

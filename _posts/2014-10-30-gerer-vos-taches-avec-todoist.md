@@ -43,22 +43,22 @@ Je m’apprêtais à faire un article sur l’excellent service [Todoist][1] qua
 
 Une petite *précision* quand même. J’ai testé [l’extension Outlook][5] du service qui permet d’ajouter une option directement dans la messagerie sous Windows. Et bien c’est très bien *intégré*. Vous sélectionnez un mail dans votre boîte puis cliquez sur le nouveau menu “add to todoist” et votre mail s’ajoute automatiquement à votre TODO liste de votre choix.
 
-[<img class="aligncenter size-full wp-image-488" src="http://localhost/wp-content/uploads/2014/10/image001.png" alt="image001" width="338" height="105" />][6]
+[<img class="aligncenter size-full wp-image-488" src="{{ site.baseurl }}/images/2014/10/image001.png" alt="image001" width="338" height="105" />][6]
 
 &nbsp;
 
 Mieux, vous allez retrouver depuis le *bandeau latéral* depuis Outlook dans liste, la tâche ajoutée depuis le mail et vous aurez le *lien* qui vous permettra d’ouvrir le mail dans Outlook.
 
-[<img class="aligncenter size-full wp-image-489" src="http://localhost/wp-content/uploads/2014/10/image002.png" alt="image002" width="408" height="1016" />][7]  
+[<img class="aligncenter size-full wp-image-489" src="{{ site.baseurl }}/images/2014/10/image002.png" alt="image002" width="408" height="1016" />][7]  
 Un *exemple* d’utilisation, vous recevez un mail mais vous ne voulez pas y répondre de suite. Pas de problème vous l’ajoutez via le menu dans votre TODO liste. Quand vous la dépilerez, vous n’aurez qu’à cliquer sur le lien dans la tâche afin *d’accéder au mail original* et pouvoir y répondre c’est super pratique !
 
-[<img class="aligncenter size-full wp-image-490" src="http://localhost/wp-content/uploads/2014/10/image003.png" alt="image003" width="365" height="80" />][8]
+[<img class="aligncenter size-full wp-image-490" src="{{ site.baseurl }}/images/2014/10/image003.png" alt="image003" width="365" height="80" />][8]
 
  [1]: https://itunes.apple.com/us/app/todoist-to-do-list-task-list/id572688855?mt=8
  [2]: http://www.cuk.ch/utilisateur?u=3
  [3]: http://www.cuk.ch
  [4]: http://www.cuk.ch/articles/9791
  [5]: https://fr.todoist.com/outlook
- [6]: http://localhost/wp-content/uploads/2014/10/image001.png
- [7]: http://localhost/wp-content/uploads/2014/10/image002.png
- [8]: http://localhost/wp-content/uploads/2014/10/image003.png
+ [6]: {{ site.baseurl }}/images/2014/10/image001.png
+ [7]: {{ site.baseurl }}/images/2014/10/image002.png
+ [8]: {{ site.baseurl }}/images/2014/10/image003.png

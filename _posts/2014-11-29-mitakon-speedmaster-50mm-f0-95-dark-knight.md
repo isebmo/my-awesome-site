@@ -58,7 +58,7 @@ Mitakon démocratise cette ouverture exceptionnelle, il me semble que pour l’i
 
 Cette ouverture vous permet *d’isoler* totalement votre sujet grâce un une mise au point sur un plan aussi fin qu’une feuille (j’exagère, mais c’est la sensation qu’on a quand on fait la mise au point, manuelle bien sûr!). Le Mitakon vous permet de faire de beaux **Bokeh** (voir ma galerie [Flickr][3] qui s’agrandira avec le temps).
 
-[<img class="aligncenter  wp-image-602" src="http://localhost/wp-content/uploads/2014/11/Mitakon-Bokeh.jpg" alt="Mitakon 50 PO" width="810" height="795" />][4]  
+[<img class="aligncenter  wp-image-602" src="{{ site.baseurl }}/images/2014/11/Mitakon-Bokeh.jpg" alt="Mitakon 50 PO" width="810" height="795" />][4]  
 J’aime beaucoup le Bokeh de ce Mitakon, en comparaison avec le [Voigtlander 50mm 1.1][5] qui était vraiment trop agressif, celui-ci est *crémeux* pour ce que j’ai pu en voir.
 
 # Leica noctilus pour les pauvres ?
@@ -72,13 +72,13 @@ Une balance des blancs *capricieuse*, en effet le Sony a7r a du mal dans certain
 
 À pleine ouverture, le piqué est juste *exceptionnel* quand on sait que ce genre d’objectif peut paraitre un peu mou à ces ouvertures. Ici, il fait aussi bien le travail que le [Voigtlander Nokton 50mm à 1.5][7] ! Bien sûr ce n’est qu’un ressenti par rapport aux rendus des photos, je ne ferai pas de test crop 100% ou autre pour en juger.
 
-[<img class="aligncenter  wp-image-604" src="http://localhost/wp-content/uploads/2014/11/Mitakon-Piqué.jpg" alt="Mitakon 50 PO Piqué" width="839" height="823" />][8]
+[<img class="aligncenter  wp-image-604" src="{{ site.baseurl }}/images/2014/11/Mitakon-Piqué.jpg" alt="Mitakon 50 PO Piqué" width="839" height="823" />][8]
 
 La *qualité de fabrication* n’est pas la même entre les 2, elle reste à l’avantage du Voigtlander qui est un bijou en la matière. La version chrome est vraiment *plaisante*. Mais le Mitakon n’a pas à rougir, il reste bien fini, la bague de réglage de l’ouverture est *dure*, mais *régulière*. La bague de mise au point est un peu moins dure que celle de l’ouverture, mais reste bien ferme quand même. Les deux objectifs sont en *métal*, ici pas de plastique… et c’est tant mieux, ça laisse présager quelques dizaines d’années de plaisir. Les inscriptions sur l’objectif ne sont pas de très bonne qualité, la police bave un peu, elles risquent de s’effacer, le temps nous le dira.
 
 Un autre avantage au Voigtlander, il possède un pare-soleil de base qui est très bien intégré à la manière de celui qu’on trouve sur le petit Zeiss 35mm 2.8 FE. Le Mitakon n’en possède pas tout simplement, il faudra en acheter (de diamètre 67mm). D’ailleurs, le Mitakon est sujet au flare et quand on voit la taille de l’optique on comprend bien pourquoi.
 
-[<img class="aligncenter  wp-image-603" src="http://localhost/wp-content/uploads/2014/11/Mitakon-Flare.jpg" alt="Mitakon Flare" width="486" height="729" />][9]
+[<img class="aligncenter  wp-image-603" src="{{ site.baseurl }}/images/2014/11/Mitakon-Flare.jpg" alt="Mitakon Flare" width="486" height="729" />][9]
 
 # Faut-il craquer ?
 
@@ -89,9 +89,9 @@ Un objectif 50mm à cette ouverture (0.95) d’une telle qualité pour un prix a
  [1]: http://www.amazon.fr/Objectif-SLR-Magic-Hyper-monture/dp/B005M0GSTU/ref=cm_cr_pr_sims_t?tag=tfadafr-21
  [2]: http://www.bhphotovideo.com/c/product/586190-REG/Leica_11_602_50mm_f_0_95_Noctilux_M_Aspherical.html
  [3]: https://www.flickr.com/photos/isebmo/sets/72157647189153434/
- [4]: http://localhost/wp-content/uploads/2014/11/Mitakon-Bokeh.jpg
+ [4]: {{ site.baseurl }}/images/2014/11/Mitakon-Bokeh.jpg
  [5]: http://localhost/2014/01/sony-a7r-et-le-voiglander-50-1-1/
  [6]: http://www.stevehuffphoto.com/2014/09/22/shooting-with-the-mitakon-50mm-f0-95-and-the-sony-a7-at-fishermans-wharf-by-doug-frost/
  [7]: http://localhost/2014/05/sony-a7r-et-le-voigtlander-50-1-5/
- [8]: http://localhost/wp-content/uploads/2014/11/Mitakon-Piqué.jpg
- [9]: http://localhost/wp-content/uploads/2014/11/Mitakon-Flare.jpg
+ [8]: {{ site.baseurl }}/images/2014/11/Mitakon-Piqué.jpg
+ [9]: {{ site.baseurl }}/images/2014/11/Mitakon-Flare.jpg

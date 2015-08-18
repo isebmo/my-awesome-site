@@ -48,7 +48,7 @@ tags:
 </p>
 
 <p class="p2">
-  <a href="http://localhost/wp-content/uploads/2014/06/Capture-d’écran-2014-06-09-à-17.25.46.png"><img class="alignleft size-large wp-image-322" src="http://localhost/wp-content/uploads/2014/06/Capture-d’écran-2014-06-09-à-17.25.46-1024x904.png" alt="Capture d’écran 2014-06-09 à 17.25.46" width="940" height="829" /></a>
+  <a href="{{ site.baseurl }}/images/2014/06/Capture-d’écran-2014-06-09-à-17.25.46.png"><img class="alignleft size-large wp-image-322" src="{{ site.baseurl }}/images/2014/06/Capture-d’écran-2014-06-09-à-17.25.46-1024x904.png" alt="Capture d’écran 2014-06-09 à 17.25.46" width="940" height="829" /></a>
 </p>
 
 # Site web {.p1}
@@ -71,7 +71,7 @@ tags:
   </p>
   
   <p class="p2">
-    <a href="http://localhost/wp-content/uploads/2014/06/IMG_0080.png"><img class="alignleft size-large wp-image-325" src="http://localhost/wp-content/uploads/2014/06/IMG_0080-576x1024.png" alt="IMG_0080" width="576" height="1024" /></a>
+    <a href="{{ site.baseurl }}/images/2014/06/IMG_0080.png"><img class="alignleft size-large wp-image-325" src="{{ site.baseurl }}/images/2014/06/IMG_0080-576x1024.png" alt="IMG_0080" width="576" height="1024" /></a>
   </p>
   
   <h1 class="p1">
@@ -92,7 +92,7 @@ tags:
     </p>
     
     <p class="p2">
-      <a href="http://localhost/wp-content/uploads/2014/06/Capture-d’écran-2014-06-09-à-17.25.56.png"><img class="alignleft size-large wp-image-321" src="http://localhost/wp-content/uploads/2014/06/Capture-d’écran-2014-06-09-à-17.25.56-1024x472.png" alt="Capture d’écran 2014-06-09 à 17.25.56" width="940" height="433" /></a>
+      <a href="{{ site.baseurl }}/images/2014/06/Capture-d’écran-2014-06-09-à-17.25.56.png"><img class="alignleft size-large wp-image-321" src="{{ site.baseurl }}/images/2014/06/Capture-d’écran-2014-06-09-à-17.25.56-1024x472.png" alt="Capture d’écran 2014-06-09 à 17.25.56" width="940" height="433" /></a>
     </p>
     
     <h1 class="p1">

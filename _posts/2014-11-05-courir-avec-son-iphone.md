@@ -53,7 +53,7 @@ La fixation est un peu *grosse*, mais permet d’attacher et de détacher très 
 
 [Ce système quad lock][1] forme un ensemble cohérent et est compatible avec tous les téléphones. L’essayer c’est *l’adopter*. Une fois que vous avez les supports seules les fixations sont à mettre à jour en fonction de vos nouveaux téléphones.
 
-[<img class="aligncenter size-large wp-image-520" src="http://localhost/wp-content/uploads/2014/10/quadlock-brassard-1024x683.jpg" alt="quadlock-brassard" width="940" height="626" />][5]
+[<img class="aligncenter size-large wp-image-520" src="{{ site.baseurl }}/images/2014/10/quadlock-brassard-1024x683.jpg" alt="quadlock-brassard" width="940" height="626" />][5]
 
 Plus de raisons pour ne pas aller courir ! Et pensez à vous inscrire sur [Strava][6] ça vous motivera encore plus.
 
@@ -61,5 +61,5 @@ Plus de raisons pour ne pas aller courir ! Et pensez à vous inscrire sur [Strav
  [2]: http://localhost/2014/06/fixation-iphone-quad-lock-pour-velo/
  [3]: http://localhost/2014/10/courir-avec-son-iphone/
  [4]: http://www.amazon.fr/gp/product/B00N3W0PRA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00N3W0PRA&linkCode=as2&tag=tfadafr-21&linkId=K3O4EVQGMFZZWEB3
- [5]: http://localhost/wp-content/uploads/2014/10/quadlock-brassard.jpg
+ [5]: {{ site.baseurl }}/images/2014/10/quadlock-brassard.jpg
  [6]: http://strava.com

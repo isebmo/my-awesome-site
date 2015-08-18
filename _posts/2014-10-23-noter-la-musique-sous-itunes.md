@@ -54,13 +54,13 @@ tags:
 ---
 J’ai enfin trouvé le [remplaçant][1] de [You Control Tunes][2] qui nous a quitté. Je suis un grand fan de la notation sous iTunes, j’aime créer des playlists en fonction du classement de l’album ou de la piste audio. À l’époque j’utilisais [You Control Tunes ][2]qui était tout paramétrable pour noter un son depuis la barre des taches ou bien depuis un raccourci clavier de son choix. Et puis, le développement du logiciel s’est arrêté et il n’est plus possible de l’installer sur un nouveau poste, car le serveur de licence ne répond pas…
 
-[<img class="aligncenter size-full wp-image-466" src="http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-21-à-13.11.06.png" alt="Capture d’écran 2014-10-21 à 13.11.06" width="2226" height="770" />][3]
+[<img class="aligncenter size-full wp-image-466" src="{{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-21-à-13.11.06.png" alt="Capture d’écran 2014-10-21 à 13.11.06" width="2226" height="770" />][3]
 
 C’est pourquoi je suis parti à la recherche de son remplaçant qui se nomme [Stars][1]. Il prend la forme d’une petite application qui s’affiche dans la barre des menus de votre Mac. Vous avez la possibilité de le cacher du menu si aucune lecture iTunes n’est en cours.
 
 Vous pouvez depuis le menu noter la musique de *0 à 5 étoiles*, vous avez la possibilité de *voir la jaquette* de l’album au survol ou encore de *mettre en pause ou avancer/reculer* la piste iTunes. Certes cette dernière fonctionnalité n’est pas très utile quand les touches multimédias de votre Mac le permettent déjà.
 
-[<img class="aligncenter size-full wp-image-465" src="http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-21-à-13.11.54.png" alt="Capture d’écran 2014-10-21 à 13.11.54" width="984" height="1312" />][4]
+[<img class="aligncenter size-full wp-image-465" src="{{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-21-à-13.11.54.png" alt="Capture d’écran 2014-10-21 à 13.11.54" width="984" height="1312" />][4]
 
 Une des possibilités fort sympathiques, c’est la possibilité d’avoir une **notification** lorsqu’une musique n’est pas notée. Cette *popup* apparait (si vous l’avez configuré dans les options) pour vous rappeler de noter la musique (si ce n’est pas déjà fait).
 
@@ -78,5 +78,5 @@ Encore [2 petits euros][1] bien investis.
 
  [1]: https://itunes.apple.com/us/app/stars-by-karelia/id926319434?ls=1&mt=12
  [2]: http://www.macupdate.com/app/mac/15802/you-control:-tunes
- [3]: http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-21-à-13.11.06.png
- [4]: http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-21-à-13.11.54.png
+ [3]: {{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-21-à-13.11.06.png
+ [4]: {{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-21-à-13.11.54.png

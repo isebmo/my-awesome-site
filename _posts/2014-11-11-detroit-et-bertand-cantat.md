@@ -54,7 +54,7 @@ Une chose est sûre, ceux-là prennent un *plaisir fou* sur scène et la communi
 
 Le public, en constatant que le zénith toulousain n’était pas plein à craquer (contrairement à ce que l’on aurait imaginé), on le croyait boudeur, peut-être sceptique. Ou alors peut-être que certains, ne parvenant point à faire la part des choses entre déboires privés de Bertrand Cantat et l’homme sur scène, ont préféré lui tourner le dos ? Toujours est-il que ce public, certes moins nombreux que prévu, s’est laissé invité au voyage Détroit, et le voyage fut *passionnel*.
 
-[<img class="aligncenter size-full wp-image-547" src="http://localhost/wp-content/uploads/2014/11/8100835937_f8840bf6dd_o.jpg" alt="8100835937_f8840bf6dd_o" width="612" height="612" />][4]
+[<img class="aligncenter size-full wp-image-547" src="{{ site.baseurl }}/images/2014/11/8100835937_f8840bf6dd_o.jpg" alt="8100835937_f8840bf6dd_o" width="612" height="612" />][4]
 
 Car Détroit, c’est d’abord du Détroit. Une entrée en matière avec les titres du premier album [Horizons][2], interprétés avec tant d’intensité, de force, qu’ils vous en tireraient les larmes aux yeux. [Ma Muse][5], [Horizons][2], [Le Creux de Ta Main][6], alternant avec quelques vieux souvenirs : [Lazy][7], [A Ton Étoile][8]…
 
@@ -64,7 +64,7 @@ Détroit joue du Noir Dez’, mais à sa manière, et même si Noir Dez’ n’e
 
 Il ne manquera plus qu’à exploser sur [Tostaky][11], avec le cœur qui s’emballe, avant de se recentrer sur [Le Vent l’Emportera][12]. Difficile après de laisser partir le groupe, que l’on a envie de rappeler sans cesse pour « une autre », une *dernière*.
 
-[<img class="aligncenter size-full wp-image-548" src="http://localhost/wp-content/uploads/2014/11/8100840854_e13e7019ee_o.jpg" alt="8100840854_e13e7019ee_o" width="612" height="612" />][13]
+[<img class="aligncenter size-full wp-image-548" src="{{ site.baseurl }}/images/2014/11/8100840854_e13e7019ee_o.jpg" alt="8100840854_e13e7019ee_o" width="612" height="612" />][13]
 
 Alors oui, Cantat *reste* Cantat, et même si depuis le[ dernier album][2] de Noir Désir il semble avoir été au centre d’un *ouragan destructeur*, le *revoir* sur scène nous fait sacrément plaisir. Bertrand vit ses paroles, les emplit d’émotions, d’un *flot de sentiments*.  
 * Noir Désir n’est plus, [Détroit][2] ne nous le fera pas oublier, mais Détroit nous a enchanté.
@@ -72,7 +72,7 @@ Alors oui, Cantat *reste* Cantat, et même si depuis le[ dernier album][2] de No
  [1]: http://www.amazon.fr/s/?_encoding=UTF8&ajr=0&camp=1642&creative=19458&field-keywords=noir%20désir&linkCode=ur2&rh=n%3A301062%2Ck%3Anoir%20désir&tag=tfadafr-21&url=search-alias%3Dpopular&linkId=JTE36CHW3PJ7SADE
  [2]: http://www.amazon.fr/gp/product/B00FSU90BW/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FSU90BW&linkCode=as2&tag=tfadafr-21&linkId=DKSTY6NKDC3QDADF
  [3]: http://www.amazon.fr/gp/product/B00NQ9YXA0/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00NQ9YXA0&linkCode=as2&tag=tfadafr-21&linkId=G63BEJXK27MPCKEM
- [4]: http://localhost/wp-content/uploads/2014/11/8100835937_f8840bf6dd_o.jpg
+ [4]: {{ site.baseurl }}/images/2014/11/8100835937_f8840bf6dd_o.jpg
  [5]: http://www.amazon.fr/gp/product/B00GPMSD7E/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSD7E&linkCode=as2&tag=tfadafr-21&linkId=UW4HXCUPWQXJVUEH
  [6]: http://www.amazon.fr/gp/product/B00GPMSNKG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00GPMSNKG&linkCode=as2&tag=tfadafr-21&linkId=FGFWYXMB2STPKCHW
  [7]: http://www.amazon.fr/gp/product/B00P2F4ZYU/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00P2F4ZYU&linkCode=as2&tag=tfadafr-21&linkId=ASGTA3RIWF4V7MBI
@@ -81,4 +81,4 @@ Alors oui, Cantat *reste* Cantat, et même si depuis le[ dernier album][2] de No
  [10]: http://www.amazon.fr/gp/product/B00O0FLGYK/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00O0FLGYK&linkCode=as2&tag=tfadafr-21&linkId=MGXTHTYVHSD3KUMF
  [11]: http://www.amazon.fr/gp/product/B0025AU936/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025AU936&linkCode=as2&tag=tfadafr-21&linkId=UMPPFJUD4CGHLF7W
  [12]: http://www.amazon.fr/gp/product/B0025GSPYA/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0025GSPYA&linkCode=as2&tag=tfadafr-21&linkId=AFXCTUDK3DZYN5G7
- [13]: http://localhost/wp-content/uploads/2014/11/8100840854_e13e7019ee_o.jpg
+ [13]: {{ site.baseurl }}/images/2014/11/8100840854_e13e7019ee_o.jpg

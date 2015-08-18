@@ -30,7 +30,7 @@ Pour 2 personnes (2 gros mangeurs, et en plat unique…) :
 
 Comptez 3 pavés de saumon, possibilité également d’utiliser du thon, des crevettes…
 
-[<img class="aligncenter size-full wp-image-752" src="http://localhost/wp-content/uploads/2015/02/Sushi1.jpg" alt="Sushi1" width="1000" height="667" />][2]
+[<img class="aligncenter size-full wp-image-752" src="{{ site.baseurl }}/images/2015/02/Sushi1.jpg" alt="Sushi1" width="1000" height="667" />][2]
 
 # le riz :
 
@@ -68,7 +68,7 @@ Voilà vous êtes prêts à enrouler tout ça. Amenez votre natte de sorte à me
 Bonne dégustation.
 
  [1]: http://fr.wikipedia.org/wiki/Sushi
- [2]: http://localhost/wp-content/uploads/2015/02/Sushi1.jpg
+ [2]: {{ site.baseurl }}/images/2015/02/Sushi1.jpg
  [3]: http://www.amazon.fr/Bodum-10602-10-Bistro-Espresso-Double/dp/B000S6N4BI/ref=sr_1_8?ie=UTF8&qid=1424254320&sr=8-8&keywords=tasse+cafe&tag=tfadafr-21
  [4]: http://www.amazon.fr/Arcos-Professional-Couteau-cannel%C3%A9e-lespagnol/dp/B005LR68DU/ref=sr_1_1?ie=UTF8&qid=1424254549&sr=8-1&keywords=couteau+lame+cannelee&tag=tfadafr-21
  [5]: http://www.amazon.fr/W%C3%BCsthof-TR4463-23-Fusil/dp/B00009WDSF/ref=sr_1_1?ie=UTF8&qid=1424254663&sr=8-1&keywords=fusil+couteau&tag=tfadafr-21

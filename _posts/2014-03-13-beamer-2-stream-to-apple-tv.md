@@ -47,7 +47,7 @@ Le principe est simple vous lancez [Beamer][1] sur votre Mac et le logiciel le t
 
 Personnellement je stocke mes films et autres séries sur mon NAS [Synology ds213j][4] (dont je ferai la présentation dans un futur article) il me suffit de faire glisser les films depuis lecteur réseau sur Beamer et le film commence ! Mon réseau est en WiFi N et il est suffisant pour streamer un film full hd depuis le [NAS][4] jusqu&rsquo;à l&rsquo;[Apple TV][2] !
 
-[<img class="alignleft size-large wp-image-250" alt="Capture d’écran 2014-03-13 à 11.45.53" src="http://localhost/wp-content/uploads/2014/03/Capture-d’écran-2014-03-13-à-11.45.53-1024x639.png" width="940" height="586" />][5]
+[<img class="alignleft size-large wp-image-250" alt="Capture d’écran 2014-03-13 à 11.45.53" src="{{ site.baseurl }}/images/2014/03/Capture-d’écran-2014-03-13-à-11.45.53-1024x639.png" width="940" height="586" />][5]
 
 Ne galérez plus avec [Handbrake][6] ou [iVi][7] et la perte de temps pour réencoder les films !
 
@@ -55,6 +55,6 @@ Ne galérez plus avec [Handbrake][6] ou [iVi][7] et la perte de temps pour rée
  [2]: http://www.amazon.fr/gp/product/B007IH5L7A/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007IH5L7A&linkCode=as2&tag=tfadafr-21
  [3]: http://www.amazon.fr/gp/product/B00ENW4OLW/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00ENW4OLW&linkCode=as2&tag=tfadafr-21
  [4]: http://www.amazon.fr/gp/product/B00CDG2XHC/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CDG2XHC&linkCode=as2&tag=tfadafr-21
- [5]: http://localhost/wp-content/uploads/2014/03/Capture-d’écran-2014-03-13-à-11.45.53.png
+ [5]: {{ site.baseurl }}/images/2014/03/Capture-d’écran-2014-03-13-à-11.45.53.png
  [6]: https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDIQFjAA&url=http%3A%2F%2Fhandbrake.fr%2F&ei=bIohU9nwM4WthQfw9YCgAQ&usg=AFQjCNEQmk6QunfXQq6wFpNE5G32Fjcw3g&sig2=NM7yquq1aVxNbUm-frZhSQ&bvm=bv.62922401,d.ZG4
  [7]: https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDIQFjAA&url=https%3A%2F%2Fitunes.apple.com%2Ffr%2Fapp%2Fivi-lite%2Fid529927587%3Fmt%3D12&ei=XYohU6i9MdCDhQf1oIHACQ&usg=AFQjCNHaYPAp1_NgA6rGHc24qhgC118HvQ&sig2=kHMMmbRMBU3ouOMB1pcT1Q&bvm=bv.62922401,d.ZG4

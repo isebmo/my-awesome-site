@@ -47,7 +47,7 @@ tags:
 ---
 <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B009A77MSC" target="_blank">L’iPod</a> des montres de sport: je vous présente la <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007PBJXUU" target="_blank">Nike+ Sportwatch GPS</a>. C’est une <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007PBJXUU" target="_blank">montre</a> de sport qui comptabilise le nombre de kilomètres que vous avez effectués ainsi que votre parcours. Cette montre est orientée grand public, ne cherchez pas à tirer des graphiques ou analyses très poussées de vos entrainements (comme chez Garmin par exemple), elle est là pour vous motiver et enregistrer vos séances de footing point. Les pros, passez votre chemin&#8230;
 
-[<img class="alignleft size-full wp-image-221" alt="DSC06411" src="http://localhost/wp-content/uploads/2014/01/DSC06411.jpg" width="1000" height="667" />][1]
+[<img class="alignleft size-full wp-image-221" alt="DSC06411" src="{{ site.baseurl }}/images/2014/01/DSC06411.jpg" width="1000" height="667" />][1]
 
 # La qualité de fabrication
 
@@ -55,13 +55,13 @@ tags:
 
 L’autonomie est un peu juste, elle se décharge assez rapidement, et ce même si vous ne l’utilisez pas. Comptez 2, 3 footings de 10km et il faudra la recharger.
 
-[<img class="size-full wp-image-218 alignnone" alt="DSC06415" src="http://localhost/wp-content/uploads/2014/01/DSC06415.jpg" width="667" height="1000" />][2]
+[<img class="size-full wp-image-218 alignnone" alt="DSC06415" src="{{ site.baseurl }}/images/2014/01/DSC06415.jpg" width="667" height="1000" />][2]
 
 # La simplicité
 
 Le côté pratique et simple de la montre peut ne pas convenir à tout le monde, elle ne se configure que par l’intermédiaire du logiciel Nike+ Connect (compatible Mac et PC). Si vous voulez régler l’heure, il vous faudra la connecter. Il est possible d’afficher 2 données à la fois sur 2 niveaux, le premier en haut est affiché en petit soit 1/3 de l’espace disponible tandis que l’affichage du bas vous permet d’afficher l’information principale et visible immédiatement. La configuration de l’affichage se fait par l’intermédiaire du logiciel (encore), les boutons de la montre vous permettent de faire défiler les informations sur la partie du haut et pouvoir afficher le temps écoulé, le nombre de kilomètres effectués, la vitesse moyenne ou instantanée&#8230;
 
-[<img class="alignleft size-full wp-image-219" alt="DSC06413" src="http://localhost/wp-content/uploads/2014/01/DSC06413.jpg" width="1000" height="667" />][3]
+[<img class="alignleft size-full wp-image-219" alt="DSC06413" src="{{ site.baseurl }}/images/2014/01/DSC06413.jpg" width="1000" height="667" />][3]
 
 # En séance
 
@@ -71,7 +71,7 @@ Il est possible de configurer la montre toujours par l’intermédiaire du logic
 
 <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007PBJXUU" target="_blank">Elle</a> possède un chronomètre comme toute montre de sport, à la différence que les temps partiels (laps) peuvent être déclenchés en tapotant le haut de la montre. Cette fonctionnalité est fort pratique pour compter vos séries lors de vos entrainements au Crossfit !
 
-[<img alt="DSC06416" src="http://localhost/wp-content/uploads/2014/01/DSC06416.jpg" width="1000" height="667" />][4]
+[<img alt="DSC06416" src="{{ site.baseurl }}/images/2014/01/DSC06416.jpg" width="1000" height="667" />][4]
 
 # Le site web
 
@@ -79,7 +79,7 @@ Le logiciel <a href="https://secure-nikeplus.nike.com/plus/" target="_blank">Nik
 
 Le site est agréable, il vous permet de vous lancer des défis, il vous félicite lorsque vous les avez atteints sous forme de médaille, c’est motivant pour le débutant, on y fait plus attention après… Vous avez aussi la possibilité de lancer des défis à vos amis et de les défier au nombre de kilomètres parcourus.
 
- [1]: http://localhost/wp-content/uploads/2014/01/DSC06411.jpg
- [2]: http://localhost/wp-content/uploads/2014/01/DSC06415.jpg
- [3]: http://localhost/wp-content/uploads/2014/01/DSC06413.jpg
- [4]: http://localhost/wp-content/uploads/2014/01/DSC06416.jpg
+ [1]: {{ site.baseurl }}/images/2014/01/DSC06411.jpg
+ [2]: {{ site.baseurl }}/images/2014/01/DSC06415.jpg
+ [3]: {{ site.baseurl }}/images/2014/01/DSC06413.jpg
+ [4]: {{ site.baseurl }}/images/2014/01/DSC06416.jpg

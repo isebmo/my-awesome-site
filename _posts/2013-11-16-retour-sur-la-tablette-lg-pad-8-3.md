@@ -51,14 +51,14 @@ Ancien drogué des produits Apple, je me tourne de plus en plus vers les produit
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://localhost/wp-content/uploads/2013/11/DSC04977.jpg"><img class="alignnone size-large wp-image-54" src="http://localhost/wp-content/uploads/2013/11/DSC04977-1024x682.jpg" alt="DSC04977" width="940" height="626" /></a><br /> Un rapide tour du propriétaire pour vous dire que cette tablette est bien finie, on est loin des standards Apple (le prix aussi) mais vous en avez pour votre argent. La tablette est en plastique sauf pour une partie au dos qui est en aluminium, c&rsquo;est joli c&rsquo;est aussi froid l&rsquo;hiver 😉 les bords sont fins, beaucoup plus que sur la Nexus 7. Le poids est contenu, elle se fait vite oublier pour de longues heures de lecture.<br /> La sur couche de LG est une des plus réussies que j&rsquo;ai pu testée. Elle reste simple sans être envahissante comme celle de Samsung. Seul reproche à lui faire, la barre des notifications qui est trop surchargée&#8230; Et ce n&rsquo;est pas configurable, dommage.<br /> <a href="http://localhost/wp-content/uploads/2013/11/DSC04982.jpg"><img class="alignnone size-large wp-image-57" src="http://localhost/wp-content/uploads/2013/11/DSC04982-1024x682.jpg" alt="DSC04982" width="940" height="626" /></a>
+  <a href="{{ site.baseurl }}/images/2013/11/DSC04977.jpg"><img class="alignnone size-large wp-image-54" src="{{ site.baseurl }}/images/2013/11/DSC04977-1024x682.jpg" alt="DSC04977" width="940" height="626" /></a><br /> Un rapide tour du propriétaire pour vous dire que cette tablette est bien finie, on est loin des standards Apple (le prix aussi) mais vous en avez pour votre argent. La tablette est en plastique sauf pour une partie au dos qui est en aluminium, c&rsquo;est joli c&rsquo;est aussi froid l&rsquo;hiver 😉 les bords sont fins, beaucoup plus que sur la Nexus 7. Le poids est contenu, elle se fait vite oublier pour de longues heures de lecture.<br /> La sur couche de LG est une des plus réussies que j&rsquo;ai pu testée. Elle reste simple sans être envahissante comme celle de Samsung. Seul reproche à lui faire, la barre des notifications qui est trop surchargée&#8230; Et ce n&rsquo;est pas configurable, dommage.<br /> <a href="{{ site.baseurl }}/images/2013/11/DSC04982.jpg"><img class="alignnone size-large wp-image-57" src="{{ site.baseurl }}/images/2013/11/DSC04982-1024x682.jpg" alt="DSC04982" width="940" height="626" /></a>
 </p>
 
 <p style="text-align: justify;">
   <em>L&rsquo;écran:</em> C&rsquo;est le point délicat de cette tablette. Autant la définition est parfaite, on ne voit pas la différence entre l&rsquo;écran &laquo;&nbsp;retina&nbsp;&raquo; du Nexus 7, autant la colorimétrie laisse à désirer&#8230; Le blanc tire beaucoup sur le jaune, c&rsquo;est gênant. C&rsquo;est dommage, c&rsquo;est le seul gros point noir de la tablette, espérons que le problème n&rsquo;est présent que sur certains modèles. Un dernier point pour terminer ce paragraphe, l&rsquo;écran marque les traces de doigts de manière importante.
 </p>
 
-[<img class="alignnone size-large wp-image-58" src="http://localhost/wp-content/uploads/2013/11/DSC04986-1024x682.jpg" alt="DSC04986" width="940" height="626" />][1]
+[<img class="alignnone size-large wp-image-58" src="{{ site.baseurl }}/images/2013/11/DSC04986-1024x682.jpg" alt="DSC04986" width="940" height="626" />][1]
 
 <p style="text-align: justify;">
   <em>L&rsquo;autonomie:</em> C&rsquo;est un point faible de la tablette, un point faible de beaucoup d&rsquo;appareils Android aussi <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
@@ -68,7 +68,7 @@ Ancien drogué des produits Apple, je me tourne de plus en plus vers les produit
   L&rsquo;autonomie est un poil plus faible que sur la Nexus 7, c&rsquo;est dommage car sur cette dernière je trouvais que c&rsquo;était un peu juste. En utilisation intensive, surf, un peu de Youtube, découverte du système, j&rsquo;ai tenu une journée complète puis elle s&rsquo;est éteinte.
 </p>
 
-[<img class="alignnone size-large wp-image-60" src="http://localhost/wp-content/uploads/2013/11/DSC04996-1024x682.jpg" alt="DSC04996" width="940" height="626" />][2]
+[<img class="alignnone size-large wp-image-60" src="{{ site.baseurl }}/images/2013/11/DSC04996-1024x682.jpg" alt="DSC04996" width="940" height="626" />][2]
 
 <p style="text-align: justify;">
   <em>Le prix:</em> 250€ c&rsquo;est le prix que vous paierez si vous l&rsquo;achetez avant le 31 décembre 2013, grâce à l&rsquo;offre de remboursement de LG de 50€, si vous tardez vous paierez le prix fort soit 299€. Je pense qu&rsquo;à 250€ cette tablette est meilleure que le Nexus 7, en revanche si vous devez la payer le prix fort, je pense qu&rsquo;il vaut mieux se tourner vers la Nexus.
@@ -82,8 +82,8 @@ Ancien drogué des produits Apple, je me tourne de plus en plus vers les produit
   Difficile de comparer, l&rsquo;iPad mini est beaucoup mieux fini comme tous les appareils Apple. Comparer l&rsquo;iPad et le Pad revient à comparer iOS et Android, un point peut être comparé : l&rsquo;écran. En effet, le ratio de la tablette à la pomme opte pour un ratio 4:3 tandis que le pad est en 16:9. Là, tout dépend des goûts de chacun, personnellement je préfère un 4:3 pour la navigation sur internet.
 </p>
 
-[<img class="alignnone size-large wp-image-55" src="http://localhost/wp-content/uploads/2013/11/DSC04979-1024x682.jpg" alt="DSC04979" width="940" height="626" />][3]
+[<img class="alignnone size-large wp-image-55" src="{{ site.baseurl }}/images/2013/11/DSC04979-1024x682.jpg" alt="DSC04979" width="940" height="626" />][3]
 
- [1]: http://localhost/wp-content/uploads/2013/11/DSC04986.jpg
- [2]: http://localhost/wp-content/uploads/2013/11/DSC04996.jpg
- [3]: http://localhost/wp-content/uploads/2013/11/DSC04979.jpg
+ [1]: {{ site.baseurl }}/images/2013/11/DSC04986.jpg
+ [2]: {{ site.baseurl }}/images/2013/11/DSC04996.jpg
+ [3]: {{ site.baseurl }}/images/2013/11/DSC04979.jpg

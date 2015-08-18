@@ -44,7 +44,7 @@ tags:
 ---
 Apprenez les constellations avec [Sky Guide][1]. C’est une application disponible sur iOS qui met à profit la réalité augmentée afin de visualiser les étoiles directement en pointant votre téléphone vers le ciel. Une chose marrante, vous pouvez viser vers le sol et voir les constellations cachées de l’autre côté de la terre.
 
-[<img class="aligncenter  wp-image-472" src="http://localhost/wp-content/uploads/2014/10/IMG_0259.jpg" alt="IMG_0259" width="363" height="645" />][2]
+[<img class="aligncenter  wp-image-472" src="{{ site.baseurl }}/images/2014/10/IMG_0259.jpg" alt="IMG_0259" width="363" height="645" />][2]
 
 Mais [l’application][1] ne s’arrête pas à la simple visualisation des étoiles, elle vous permet d’en apprendre plus sur elles. Touchez la constellation que vous voulez découvrir ou l’étoile devant vous et vous aurez des informations sur celle-ci. L’article est plutôt complet et ça vous donnera sûrement envie d’aller plus loin. Il y a vraiment de quoi s’extasier le soir où le ciel est dégagé, sortez votre téléphone et pointez le vers l’étoile dont vous voulez connaître le nom et dans la seconde qui suit vous aurez toutes les informations pour passer pour un astronome averti.
 
@@ -53,4 +53,4 @@ Vous avez la possibilité via un achat in-app de pouvoir suivre les satellites e
 [L’application][1] coûte la modique somme de [1.99€][1] et c’est une des meilleures qui utilise la réalité augmentée.
 
  [1]: https://itunes.apple.com/us/app/sky-guide-view-stars-night/id576588894?mt=8
- [2]: http://localhost/wp-content/uploads/2014/10/IMG_0259.jpg
+ [2]: {{ site.baseurl }}/images/2014/10/IMG_0259.jpg

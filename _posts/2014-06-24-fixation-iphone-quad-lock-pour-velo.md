@@ -56,7 +56,7 @@ tags:
 </p>
 
 <p class="p1">
-  <a href="http://localhost/wp-content/uploads/2014/06/DSC07270-1.jpg"><img class="alignleft size-large wp-image-335" src="http://localhost/wp-content/uploads/2014/06/DSC07270-1-1024x683.jpg" alt="DSC07270 (1)" width="940" height="626" /></a>
+  <a href="{{ site.baseurl }}/images/2014/06/DSC07270-1.jpg"><img class="alignleft size-large wp-image-335" src="{{ site.baseurl }}/images/2014/06/DSC07270-1-1024x683.jpg" alt="DSC07270 (1)" width="940" height="626" /></a>
 </p>
 
 <p class="p1">
@@ -64,7 +64,7 @@ tags:
 </p>
 
 <p class="p1">
-  <a href="http://localhost/wp-content/uploads/2014/06/DSC07269-1.jpg"><img class="alignleft size-large wp-image-334" src="http://localhost/wp-content/uploads/2014/06/DSC07269-1-1024x683.jpg" alt="DSC07269 (1)" width="940" height="626" /></a>
+  <a href="{{ site.baseurl }}/images/2014/06/DSC07269-1.jpg"><img class="alignleft size-large wp-image-334" src="{{ site.baseurl }}/images/2014/06/DSC07269-1-1024x683.jpg" alt="DSC07269 (1)" width="940" height="626" /></a>
 </p>
 
 <p class="p1">
@@ -72,7 +72,7 @@ tags:
 </p>
 
 <p class="p1">
-  <a href="http://localhost/wp-content/uploads/2014/06/DSC07273-1.jpg"><img class="aligncenter wp-image-336 size-large" src="http://localhost/wp-content/uploads/2014/06/DSC07273-1-683x1024.jpg" alt="DSC07273 (1)" width="683" height="1024" /></a>
+  <a href="{{ site.baseurl }}/images/2014/06/DSC07273-1.jpg"><img class="aligncenter wp-image-336 size-large" src="{{ site.baseurl }}/images/2014/06/DSC07273-1-683x1024.jpg" alt="DSC07273 (1)" width="683" height="1024" /></a>
 </p>
 
 <p class="p1">

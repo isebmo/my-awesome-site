@@ -50,7 +50,7 @@ format: link
 
 Je suis adepte du service [Flickr][2] qui donne la possibilité de partager ses photos souvent de qualité avec d’autres utilisateurs et avoir des avis rapides dessus. Mais le point *noir* de ce dernier service c’est qu’il est difficile de récupérer *l’ensemble* de ses photos d’un seul coup. Il reste cependant la meilleure manière pour un amateur de *partager* ses meilleurs clichés avec d’autres *férus* de photographie.
 
-[<img class="aligncenter size-large wp-image-540" src="http://localhost/wp-content/uploads/2014/11/smugmug-1024x512.png" alt="smugmug" width="940" height="470" />][3]
+[<img class="aligncenter size-large wp-image-540" src="{{ site.baseurl }}/images/2014/11/smugmug-1024x512.png" alt="smugmug" width="940" height="470" />][3]
 
 # L’illimité limité
 
@@ -64,6 +64,6 @@ Si vous cherchez un site de partage et surtout de backup (et oui personne n’es
 
  [1]: http://smugmug.com
  [2]: https://www.flickr.com/photos/isebmo/
- [3]: http://localhost/wp-content/uploads/2014/11/smugmug.png
+ [3]: {{ site.baseurl }}/images/2014/11/smugmug.png
  [4]: http://localhost/2013/11/le-petit-sony-a7r/
  [5]: https://itunes.apple.com/fr/app/smugmug/id364894061?mt=8

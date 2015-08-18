@@ -52,11 +52,11 @@ Commencez par télécharger les utilitaires suivants, je mets les liens, mais li
 
 Installer Macfuse en premier en prenant soin de cocher la case « MacFUSE Compatibility Layer »
 
-[<img class="alignleft size-large wp-image-224" alt="Capture d’écran 2014-01-29 à 11.37.25" src="http://localhost/wp-content/uploads/2014/01/Capture-d’écran-2014-01-29-à-11.37.25-1024x716.png" width="940" height="657" />][3]  
+[<img class="alignleft size-large wp-image-224" alt="Capture d’écran 2014-01-29 à 11.37.25" src="{{ site.baseurl }}/images/2014/01/Capture-d’écran-2014-01-29-à-11.37.25-1024x716.png" width="940" height="657" />][3]  
 Puis installer Ntfs-3g  
 Redémarrer votre ordinateur (à la mode Windows)  
 Partagez !
 
  [1]: www.localhost/upload/osxfuse-2.6.2.dmg
  [2]: www.localhost/upload/ntfs-3g-2010.10.2-macosx.dmg
- [3]: http://localhost/wp-content/uploads/2014/01/Capture-d’écran-2014-01-29-à-11.37.25.png
+ [3]: {{ site.baseurl }}/images/2014/01/Capture-d’écran-2014-01-29-à-11.37.25.png

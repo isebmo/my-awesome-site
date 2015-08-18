@@ -50,7 +50,7 @@ tags:
 Une [liseuse][1] à la différence d’une tablette traditionnelle sert avant tout à lire, son avantage est d’avoir un **écran qui ne fatigue pas les yeux** et qui reste lisible en plein soleil. Un autre avantage serait le **prix**, disons qu’il est plus facile de l’emmener à la plage qu’un iPad qui coute 5x plus cher. Enfin le format, une liseuse est beaucoup plus **légère** qu’une tablette et les dimensions se rapprochent d’un livre de poche qu’il est plus facile en emporter partout (transport en commun). **L’autonomie**, oui avec une liseuse fini les recharges quotidiennes, vous pouvez lire plusieurs semaines sans voir une prise de courant…  
 Je vous présente rapidement les atouts de cette [Kobo Aura HD][1] et pourquoi la je l’a préfère au [Kindle][2].
 
-[<img class="aligncenter size-full wp-image-416" src="http://localhost/wp-content/uploads/2014/10/DSC07395.jpg" alt="DSC07395" width="2048" height="1367" />][3]
+[<img class="aligncenter size-full wp-image-416" src="{{ site.baseurl }}/images/2014/10/DSC07395.jpg" alt="DSC07395" width="2048" height="1367" />][3]
 
 # Définition de l’écran
 
@@ -75,14 +75,14 @@ La liseuse possède un sudoku ainsi qu’un jeu d’échecs, ça peut toujours d
 
 Le revêtement de la liseuse retient très facilement les traces de doigts ce qui oblige de la nettoyer avant de la prêter. Je ne parle pas de l’écran, mais du revêtement arrière.
 
-[<img class="aligncenter size-full wp-image-415" src="http://localhost/wp-content/uploads/2014/10/DSC07396.jpg" alt="DSC07396" width="2048" height="1367" />][4]
+[<img class="aligncenter size-full wp-image-415" src="{{ site.baseurl }}/images/2014/10/DSC07396.jpg" alt="DSC07396" width="2048" height="1367" />][4]
 
 # Lenteurs de l’interface
 
 Le plus gros point noir de la liseuse est la lenteur de l’interface graphique. J’aime avoir une interface sans ralentissement et bien je ne suis pas très satisfait de ce côté-là. La lenteur du système n’est quand même pas rédhibitoire surtout que les **ralentissements** n’apparaissent que sur la page d’accueil et non durant la lecture.  
 Un bug gênant ralentit la liseuse lorsqu’elle cherche le réseau WiFi sur lequel elle est configurée et qui n’est pas disponible. Dans ce cas-là, la seule solution est de désactiver le WiFi sinon elle est carrément **inutilisable**, espérons une mise à jour pour corriger le problème.
 
-[<img class="aligncenter size-full wp-image-413" src="http://localhost/wp-content/uploads/2014/10/DSC07398.jpg" alt="DSC07398" width="2048" height="3069" />][5]
+[<img class="aligncenter size-full wp-image-413" src="{{ site.baseurl }}/images/2014/10/DSC07398.jpg" alt="DSC07398" width="2048" height="3069" />][5]
 
 # Une petite astuce.
 
@@ -90,7 +90,7 @@ La liseuse étant distribuée par la [FNAC][6], lorsqu’elle est en veille elle
 
  [1]: http://www.amazon.fr/gp/product/B00CFV45KS/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CFV45KS&linkCode=as2&tag=tfadafr-21&linkId=QPZC3776VNG4YNYO
  [2]: http://www.amazon.fr/gp/product/B00JG8GBDM/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00JG8GBDM&linkCode=as2&tag=tfadafr-21&linkId=GUGT5STZHQC2UGQG
- [3]: http://localhost/wp-content/uploads/2014/10/DSC07395.jpg
- [4]: http://localhost/wp-content/uploads/2014/10/DSC07396.jpg
- [5]: http://localhost/wp-content/uploads/2014/10/DSC07398.jpg
+ [3]: {{ site.baseurl }}/images/2014/10/DSC07395.jpg
+ [4]: {{ site.baseurl }}/images/2014/10/DSC07396.jpg
+ [5]: {{ site.baseurl }}/images/2014/10/DSC07398.jpg
  [6]: http://fnac.com

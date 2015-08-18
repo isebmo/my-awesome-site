@@ -54,7 +54,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://localhost/wp-content/uploads/2014/01/DSC06287.jpg"><img class=" wp-image-175 aligncenter" alt="DSC06287" src="http://localhost/wp-content/uploads/2014/01/DSC06287.jpg" width="648" height="648" /></a>
+  <a href="{{ site.baseurl }}/images/2014/01/DSC06287.jpg"><img class=" wp-image-175 aligncenter" alt="DSC06287" src="{{ site.baseurl }}/images/2014/01/DSC06287.jpg" width="648" height="648" /></a>
 </div>
 
 <div class="impact-text">
@@ -66,7 +66,7 @@ tags:
 </div>
 
 <div class="impact-text">
-  <a href="http://localhost/wp-content/uploads/2014/01/DSC06293.jpg"><img class="alignnone size-large wp-image-171" alt="DSC06293" src="http://localhost/wp-content/uploads/2014/01/DSC06293-1024x684.jpg" width="940" height="627" /></a>
+  <a href="{{ site.baseurl }}/images/2014/01/DSC06293.jpg"><img class="alignnone size-large wp-image-171" alt="DSC06293" src="{{ site.baseurl }}/images/2014/01/DSC06293-1024x684.jpg" width="940" height="627" /></a>
 </div>
 
 <div>
@@ -74,7 +74,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://localhost/wp-content/uploads/2014/01/DSC06291.jpg"><img class="wp-image-173 aligncenter" alt="DSC06291" src="http://localhost/wp-content/uploads/2014/01/DSC06291-684x1024.jpg" width="410" height="614" /></a>
+  <a href="{{ site.baseurl }}/images/2014/01/DSC06291.jpg"><img class="wp-image-173 aligncenter" alt="DSC06291" src="{{ site.baseurl }}/images/2014/01/DSC06291-684x1024.jpg" width="410" height="614" /></a>
 </div>
 
 <div>
@@ -88,7 +88,7 @@ tags:
 </div>
 
 <div>
-   <a href="http://localhost/wp-content/uploads/2014/01/DSC06294.jpg"><img class="alignnone size-large wp-image-170" alt="DSC06294" src="http://localhost/wp-content/uploads/2014/01/DSC06294-1024x684.jpg" width="940" height="627" /></a>
+   <a href="{{ site.baseurl }}/images/2014/01/DSC06294.jpg"><img class="alignnone size-large wp-image-170" alt="DSC06294" src="{{ site.baseurl }}/images/2014/01/DSC06294-1024x684.jpg" width="940" height="627" /></a>
 </div>
 
 <div class="impact-text">
@@ -100,7 +100,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://localhost/wp-content/uploads/2014/01/DSC06292.jpg"><img class="alignnone size-large wp-image-172" alt="DSC06292" src="http://localhost/wp-content/uploads/2014/01/DSC06292-1024x684.jpg" width="940" height="627" /></a>
+  <a href="{{ site.baseurl }}/images/2014/01/DSC06292.jpg"><img class="alignnone size-large wp-image-172" alt="DSC06292" src="{{ site.baseurl }}/images/2014/01/DSC06292-1024x684.jpg" width="940" height="627" /></a>
 </div>
 
 <div>
@@ -115,13 +115,13 @@ tags:
 </div>
 
 <div>
-   <a href="http://localhost/wp-content/uploads/2014/01/DSC01420.jpg"><img class="alignnone size-large wp-image-167" alt="DSC01420" src="http://localhost/wp-content/uploads/2014/01/DSC01420-1024x768.jpg" width="940" height="705" /></a>
+   <a href="{{ site.baseurl }}/images/2014/01/DSC01420.jpg"><img class="alignnone size-large wp-image-167" alt="DSC01420" src="{{ site.baseurl }}/images/2014/01/DSC01420-1024x768.jpg" width="940" height="705" /></a>
 </div>
 
 <div>
   Reste le goût et les couleurs, la <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007UN0L0O" target="_blank">sacoche</a> est rectangulaire et vous n&rsquo;avez pas le choix des couleurs c&rsquo;est marron ou rien donc si vous n&rsquo;aimez ni l&rsquo;un ni l&rsquo;autre il va falloir chercher autre chose&#8230; Perso je suis fan, look vintage et intemporel <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 </div>
 
-[<img class="alignnone size-large wp-image-166" alt="DSC01421" src="http://localhost/wp-content/uploads/2014/01/DSC01421-1024x768.jpg" width="940" height="705" />][1]
+[<img class="alignnone size-large wp-image-166" alt="DSC01421" src="{{ site.baseurl }}/images/2014/01/DSC01421-1024x768.jpg" width="940" height="705" />][1]
 
- [1]: http://localhost/wp-content/uploads/2014/01/DSC01421.jpg
+ [1]: {{ site.baseurl }}/images/2014/01/DSC01421.jpg

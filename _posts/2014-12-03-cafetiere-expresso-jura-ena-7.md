@@ -53,14 +53,14 @@ Si comme moi vous êtes *accros* au café, mais pas n’importe quel café le vr
 J’ai longtemps été un adepte des cafetières [Nespresso][2] parce qu’elles sont *simples* et *pratiques*, elles ne demandent **pas d’entretien**. Et puis j’ai commencé à me rendre compte que j’avais fait le tour de toutes les saveurs. Certes, une ou deux nouvelles saveurs sortent de temps en temps, mais on tourne rapidement en rond.  
 Il a fallu que je visite un torréfacteur pour comprendre à côté de quoi je passais. Mais comment profiter de ces superbes cafés en conservant la facilité d’utilisation d’une Nespresso ?
 
-[<img class="aligncenter  wp-image-612" src="http://localhost/wp-content/uploads/2014/12/jura-ena-7-1.jpg" alt="jura-ena-7-1" width="440" height="660" />][3]
+[<img class="aligncenter  wp-image-612" src="{{ site.baseurl }}/images/2014/12/jura-ena-7-1.jpg" alt="jura-ena-7-1" width="440" height="660" />][3]
 
 # Le café
 
 Grâce à la cafetière [expresso Jura Ena][1] 7, vous ne pouvez pas faire plus simple. Vous remplissez le bac à café en grains prévu à cet effet et vous appuyez sur le bouton, le résultat ? Un expresso parfait.  
 Vous avez la possibilité de mettre du café moulu dans un endroit spécifique, mais il vous faudra en mettre chaque fois que vous voulez une nouvelle tasse. Contrairement au bac qui contient les grains, celui-ci peut contenir de quoi faire une bonne dizaine de tasses.
 
-[<img class="aligncenter size-full wp-image-616" src="http://localhost/wp-content/uploads/2014/12/jura-ena-7-5.jpg" alt="jura-ena-7-5" width="1000" height="667" />][4]
+[<img class="aligncenter size-full wp-image-616" src="{{ site.baseurl }}/images/2014/12/jura-ena-7-5.jpg" alt="jura-ena-7-5" width="1000" height="667" />][4]
 
 # L’entretien
 
@@ -74,13 +74,13 @@ Les grands crus de tous les continents sont à vous ! En passant par le café du
 Le pont négatif c’est qu’une fois le bac a grains rempli d’une variété de café vous ne pouvez pas en changer sans le finir, fini les *tu veux quoi comme capsule ?*  
 Vous pouvez choisir la **température** de l’eau souhaitée pour votre tasse ainsi que son **intensité** et même la **quantité d’eau** dans le cas où vous voulez vous faire un bol de café le matin. Vous avez 3 boutons programmables pour différentes variantes de café.
 
-[<img class="aligncenter size-full wp-image-615" src="http://localhost/wp-content/uploads/2014/12/jura-ena-7-4.jpg" alt="jura-ena-7-4" width="1000" height="667" />][5]
+[<img class="aligncenter size-full wp-image-615" src="{{ site.baseurl }}/images/2014/12/jura-ena-7-4.jpg" alt="jura-ena-7-4" width="1000" height="667" />][5]
 
 # Un design sobre et classe
 
 Question de goût, mais je trouve l’esthétique très réussie. Vous avez le choix entre **plusieurs coloris** vous n’avez plus qu’à choisir la cafetière qui s’intègre au mieux au design de votre cuisine.
 
-[<img class="aligncenter  wp-image-614" src="http://localhost/wp-content/uploads/2014/12/jura-ena-7-3.jpg" alt="jura-ena-7-3" width="480" height="720" />][6]
+[<img class="aligncenter  wp-image-614" src="{{ site.baseurl }}/images/2014/12/jura-ena-7-3.jpg" alt="jura-ena-7-3" width="480" height="720" />][6]
 
 **Les plus:**  
 * Simplicité  
@@ -95,7 +95,7 @@ N’attendez plus et offrez-vous [la][1] pour Noël !
 
  [1]: http://www.amazon.fr/Jura-Vollauto-ENA-Cherry-Red/dp/B002RW568A/ref=sr_1_3?ie=UTF8&qid=1417542292&sr=8-3&keywords=jura+ena+7&tag=tfadafr-21
  [2]: http://www.amazon.fr/Krups-YY1202FD-Cafeti%C3%A8re-Nespresso-Electrique/dp/B004H1UZI0/ref=sr_1_3?ie=UTF8&qid=1417542331&sr=8-3&keywords=nespresso&tag=tfadafr-21
- [3]: http://localhost/wp-content/uploads/2014/12/jura-ena-7-1.jpg
- [4]: http://localhost/wp-content/uploads/2014/12/jura-ena-7-5.jpg
- [5]: http://localhost/wp-content/uploads/2014/12/jura-ena-7-4.jpg
- [6]: http://localhost/wp-content/uploads/2014/12/jura-ena-7-3.jpg
+ [3]: {{ site.baseurl }}/images/2014/12/jura-ena-7-1.jpg
+ [4]: {{ site.baseurl }}/images/2014/12/jura-ena-7-5.jpg
+ [5]: {{ site.baseurl }}/images/2014/12/jura-ena-7-4.jpg
+ [6]: {{ site.baseurl }}/images/2014/12/jura-ena-7-3.jpg

@@ -61,11 +61,11 @@ Niveau protection c’est le top, je ne vais pas lancer mon téléphone par terr
 
 La protection ajoutera une  légère épaisseur à l’écran 0.26mm autant dire quasiment rien. Le *touché* de l’écran reste exactement le *même* que dans sans protection et ça aussi ça change des protections ordinaires.
 
-[<img class="alignleft size-full wp-image-387" src="http://localhost/wp-content/uploads/2014/10/IMG_0235.jpg" alt="IMG_0235" width="1024" height="768" />][4]
+[<img class="alignleft size-full wp-image-387" src="{{ site.baseurl }}/images/2014/10/IMG_0235.jpg" alt="IMG_0235" width="1024" height="768" />][4]
 
 Je vous conseille **vivement** cette protection simple, mais très efficace. Pour le [prix][1] c’est beaucoup moins cher que le remplacement de l’écran !
 
  [1]: http://www.amazon.fr/gp/product/B00HXSLQUK/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00HXSLQUK&linkCode=as2&tag=tfadafr-21&linkId=C6VATXWGHVWCB5CO
  [2]: http://www.amazon.fr/gp/product/B00DV375YC/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00DV375YC&linkCode=as2&tag=tfadafr-21&linkId=N3AMYTUYWQBEDDOX
  [3]: http://www.amazon.fr/gp/product/B009VUJF2Y/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B009VUJF2Y&linkCode=as2&tag=tfadafr-21&linkId=JCZMOJREAGWEGIE3
- [4]: http://localhost/wp-content/uploads/2014/10/IMG_0235.jpg
+ [4]: {{ site.baseurl }}/images/2014/10/IMG_0235.jpg

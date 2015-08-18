@@ -51,7 +51,7 @@ Si vous n’êtes pas équipés de Mac dans le foyer, la réponse est clairement
 [Netflix][3], [Canalplay][4], [Youtube][5] et puis c’est tout, malheureusement. Il n’y a bien d’autres chaines, mais rien d’exceptionnel. Vous avez la possibilité d’accéder à [l’iTunes Store][6] afin de louer vos films ou séries, si vous avez déjà une box ça vous est égal…  
 Pour moi il manque surtout tous les services replay français, comme [+7 de Arte][7], [Pluzz][8] de France Télévision ou encore Canal +. Ca serait vraiment l’idéal d’avoir tous ces services accessibles *directement* depuis l’Apple TV. Au lieu de ça vous êtes obligés de lancer l’application sur votre [iPhone][2]/[iPad][9] afin d’envoyer le contenu sur l’Apple TV… dommage.
 
-[<img class="aligncenter size-full wp-image-574" src="http://localhost/wp-content/uploads/2014/11/appleTv-1.jpg" alt="appleTv-1" width="1000" height="667" />][10]
+[<img class="aligncenter size-full wp-image-574" src="{{ site.baseurl }}/images/2014/11/appleTv-1.jpg" alt="appleTv-1" width="1000" height="667" />][10]
 
 # Airplay
 
@@ -77,7 +77,7 @@ Pour **conclure** une [Apple TV ][1]est *réservée* aux personnes qui sont *éq
  [7]: http://www.arte.tv/guide/fr/plus7/?em=043655-000
  [8]: http://pluzz.francetv.fr/
  [9]: http://localhost/2014/10/lipad-air-2-est-la/
- [10]: http://localhost/wp-content/uploads/2014/11/appleTv-1.jpg
+ [10]: {{ site.baseurl }}/images/2014/11/appleTv-1.jpg
  [11]: http://localhost/2014/01/rega-et-enceintes-elipson/
  [12]: http://localhost/2014/03/beamer-2-stream-to-apple-tv/
  [13]: http://www.amazon.fr/Motorola-Moto-Smartphone-d%C3%A9bloqu%C3%A9-Ecran/dp/B00GSNTQ6W/ref=sr_1_13?ie=UTF8&qid=1416336198&sr=8-13&keywords=android&tag=tfadafr-21

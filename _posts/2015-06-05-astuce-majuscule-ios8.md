@@ -27,6 +27,6 @@ Petite astuce sur iOS 8 pour mettre un mot en *majuscule* après l’avoir déj�
   * Le clavier vous proposera une correction avec une majuscule au mot sélectionné.
   * Il ne vous reste plus qu’à le sélectionner.
 
-[<img class="aligncenter size-full wp-image-820" src="http://localhost/wp-content/uploads/2015/06/ios8-majuscule1.gif" alt="ios8-majuscule" width="270" height="480" />][1]
+[<img class="aligncenter size-full wp-image-820" src="{{ site.baseurl }}/images/2015/06/ios8-majuscule1.gif" alt="ios8-majuscule" width="270" height="480" />][1]
 
- [1]: http://localhost/wp-content/uploads/2015/06/ios8-majuscule1.gif
+ [1]: {{ site.baseurl }}/images/2015/06/ios8-majuscule1.gif

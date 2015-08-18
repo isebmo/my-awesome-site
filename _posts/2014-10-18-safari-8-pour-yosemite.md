@@ -52,7 +52,7 @@ Depuis que je suis sur Mac je n’ai *jamais* utilisé Safari. Ce n’est pas fa
 
 Il faut dire que safari a mis un moment à utiliser les extensions. Depuis la version 7 il est possible d’utiliser les extensions et comme je ne peux pas me passer de [adblock][3] ou [lastpass][4] il fallait au moins ça pour *l’adopter*. Alors certes il manque encore beaucoup d’extensions en comparaison à celles dédiées à Firefox ou Google Chrome mais pour l’instant aucune ne me manque vraiment.
 
-[<img class="aligncenter size-full wp-image-461" src="http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-18-à-20.11.40.png" alt="Capture d’écran 2014-10-18 à 20.11.40" width="2880" height="1800" />][5]
+[<img class="aligncenter size-full wp-image-461" src="{{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-18-à-20.11.40.png" alt="Capture d’écran 2014-10-18 à 20.11.40" width="2880" height="1800" />][5]
 
 Mes principales [extensions][6] sont:  
 * [Lastpass][4]  
@@ -70,7 +70,7 @@ Même les icônes des extensions sont assorties au nouveau design.
 
 Cette version est *hyper réactive*, au moindre click vous êtes sur la page demandée. Vous avez l’impression à l’utilisation que ce navigateur est très léger ce qui change grandement de Google.
 
-[<img class="aligncenter size-full wp-image-459" src="http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-18-à-20.17.18.png" alt="Capture d’écran 2014-10-18 à 20.17.18" width="2176" height="1350" />][8]
+[<img class="aligncenter size-full wp-image-459" src="{{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-18-à-20.17.18.png" alt="Capture d’écran 2014-10-18 à 20.17.18" width="2176" height="1350" />][8]
 
 # Autonomie
 
@@ -82,7 +82,7 @@ Safari pour tous jours mais Google Chrome pour le *développement web*. Les outi
  [2]: https://www.google.com/chrome/
  [3]: https://data.getadblock.com/safari/AdBlock.safariextz
  [4]: https://lastpass.com/misc_download2.php
- [5]: http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-18-à-20.11.40.png
+ [5]: {{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-18-à-20.11.40.png
  [6]: https://extensions.apple.com/?category=mostpopular
  [7]: http://fr.wikipedia.org/wiki/Design_plat
- [8]: http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-18-à-20.17.18.png
+ [8]: {{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-18-à-20.17.18.png

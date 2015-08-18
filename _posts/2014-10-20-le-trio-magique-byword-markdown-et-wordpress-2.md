@@ -52,7 +52,7 @@ tags:
 [Byword][1] pour ceux qui ne connaissent pas, c’est une application qui permet d’écrire en [Markdown][2]. Elle est disponible sur Mac et iOS, en tant qu’application *universelle* sur ce dernier. Sa force réside dans son interface épurée et un clavier qui permet l’accès aux *éléments les plus courants* quand on écrit (niveau, puces, lien…). Il gère ces styles en sélectionnant le texte à mettre en forme.  
 Il possède un *mode nuit* qui affiche le texte sur fond noir, ce qui est très *agréable*.
 
-[<img class="aligncenter size-full wp-image-454" src="http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-18-à-19.57.00.png" alt="Capture d’écran 2014-10-18 à 19.57.00" width="1658" height="1356" />][3]
+[<img class="aligncenter size-full wp-image-454" src="{{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-18-à-19.57.00.png" alt="Capture d’écran 2014-10-18 à 19.57.00" width="1658" height="1356" />][3]
 
 Elle se **connecte** à [iCloud][4] ou [Dropbox][5], mais elle peut très bien fonctionner avec les fichiers sauvegardés en local sur votre iPhone.  
 Si vous êtes masochistes et donc sous Windows vous pouvez utilisez [Markdownpad][6].
@@ -61,7 +61,7 @@ Si vous êtes masochistes et donc sous Windows vous pouvez utilisez [Markdownpad
 
 Une interface épurée et agréable, une *ergonomie* bien pensée, des connexions à vos espaces cloud favoris et vous disposez du **meilleur outil** pour le blogging. La syntaxe [markdown][2] a révolutionné l’écriture des blogs sur internet. En effet, c’est une syntaxe simple qui permet d’être *compilée* pour une **mise en forme parfaite** et sans prise de tête. Plus besoin de gérer la mise en forme dans votre outil de blog avant la *publication* de vos articles, vous l’avez déjà fait en markdown grâce à Byword.
 
-[<img class="aligncenter size-full wp-image-452" src="http://localhost/wp-content/uploads/2014/10/IMG_0248.png" alt="IMG_0248" width="1242" height="2208" />][7]
+[<img class="aligncenter size-full wp-image-452" src="{{ site.baseurl }}/images/2014/10/IMG_0248.png" alt="IMG_0248" width="1242" height="2208" />][7]
 
 # La publication facilitée, mais…
 
@@ -74,10 +74,10 @@ Encore une application indispensable sur Mac, iPhone et iPad !
 
  [1]: https://itunes.apple.com/fr/app/byword/id420212497?mt=12
  [2]: http://fr.wikipedia.org/wiki/Markdown
- [3]: http://localhost/wp-content/uploads/2014/10/Capture-d’écran-2014-10-18-à-19.57.00.png
+ [3]: {{ site.baseurl }}/images/2014/10/Capture-d’écran-2014-10-18-à-19.57.00.png
  [4]: http://icloud.com/
  [5]: http://dropbox.com
  [6]: http://markdownpad.com
- [7]: http://localhost/wp-content/uploads/2014/10/IMG_0248.png
+ [7]: {{ site.baseurl }}/images/2014/10/IMG_0248.png
  [8]: https://www.tumblr.com
  [9]: http://wordpress-fr.net
