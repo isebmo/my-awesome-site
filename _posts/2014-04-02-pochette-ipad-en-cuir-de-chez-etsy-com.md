@@ -14,7 +14,7 @@ sf_right_sidebar:
   - Sidebar-1
 sf_thumbnail_type:
   - image
-sf_detail_type:
+detail_type:
   - image
 sf_full_width_display:
   - 1
@@ -47,6 +47,7 @@ tags:
   - ipad
   - tablette
 format: gallery
+fimg: 2014/04/DSC06916.jpg
 ---
 Je viens de découvrir ce site. J&rsquo;y ai commandé une courroie pour mon appareil photo et une pochette pour [iPad air][1]. Dans les deux cas, j&rsquo;ai été agréablement surpris. D&rsquo;abord par le temps d&rsquo;expédition qui est très rapide, ensuite par la qualité des produits.
 

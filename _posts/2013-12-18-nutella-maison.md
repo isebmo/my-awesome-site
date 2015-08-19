@@ -40,6 +40,7 @@ tags:
   - cuisine
   - nutella
   - recette
+fimg: 2013/12/DSC05288.jpg
 ---
 Voici une recette toute simple de Nutella maison. Oui parce que le Nutella c’est tellement bon mais c’est aussi plein de mauvais gras. Bon n’espérez pas une recette beaucoup moins grasse 😉
 

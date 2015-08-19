@@ -51,6 +51,7 @@ tags:
   - photo
   - sony
   - voigtlander
+fimg: 2014/01/IMG_20131230_180733.jpg
 ---
 Cet objectif me faisait de l’œil depuis un moment, longtemps comparé au Summilux 0.95 pour un 1/10ème de son prix ! J&rsquo;ai décidé de l&rsquo;essayer, connaissant la politique de retour de Amazon je l&rsquo;ai commandé chez eux, et 24h après il était à la maison (enfin 24h après je vous passe les détails de la livraison par Chronopost qui sont de gros incompétents&#8230;). [<img class="wp-image-207 alignnone" src="{{ site.baseurl }}/images/2014/01/IMG_20131230_180733-768x1024.jpg" alt="IMG_20131230_180733" width="768" height="1024" />][1]
 

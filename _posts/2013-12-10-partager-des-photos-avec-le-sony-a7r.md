@@ -39,6 +39,7 @@ tags:
   - photo
   - sony
   - téléphone
+fimg: 2013/12/DSC05300.jpg
 ---
 Prendre de belles photos avec le A7r et les partager avec son téléphone, vous en avez rêvé ? Sony l&rsquo;a fait. Par simple contact NFC vous pouvez transférer une ou plusieurs photos de votre réflex sur votre smartphone Android sur l&rsquo;application Sony *PlayMemories*<span style="text-decoration: underline;"> Mobile</span> juste en mettant en contact les deux appareils, rien de plus simple. Dommage que Apple ne daigne pas intégrer la technologie NFC dans leur téléphone, ça facilite grandement la vie.
 

@@ -42,6 +42,7 @@ tags:
   - a7
   - photo
   - sony
+fimg: 2013/11/DSC05046.jpg
 ---
 **[EDIT] &#8211; Ajout du retour sur cet appareil 1an après** [ici][1].
 

@@ -45,6 +45,7 @@ tags:
   - a7r
   - photo
   - sony
+fimg: 2014/01/DSC06287.jpg
 ---
 <div>
   Comme je l&rsquo;ai expliqué dans <a title="Le petit Sony A7r" href="http://localhost/2013/11/le-petit-sony-a7r/" target="_blank">mon article</a> sur le <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00G34CVWW" target="_blank">Sony a7r</a>, j&rsquo;ai revendu mon ancien <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B005LLUYC2" target="_blank">Alpha 77 et son objectif 16-50 SSM</a> et mon <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B0089BUVG0" target="_blank">Sony rx100</a> car avec le A7r, Sony a regroupé le meilleur des deux mondes en un seul boitier à savoir la compacité et qualité d&rsquo;image. Depuis ce A7r ne me quitte plus et pour pouvoir m&rsquo;accompagner partout j&rsquo;ai investi dans un sac bandoulière très discret. J&rsquo;entends par discret qu&rsquo;on ne sache pas qu&rsquo;il y a un appareil photo à l’intérieur. J&rsquo;ai jeté mon dévolu sur le sac <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007UN0L0O" target="_blank">Kalahari L14</a>, marque Allemande que je connaissais pas.

@@ -53,6 +53,7 @@ tags:
   - chrome os
   - chromebook
   - os
+fimg: 2013/12/DSC05446.jpg
 ---
 Après <a title="LG G2" href="http://localhost/2013/12/lg-g2/" target="_blank">Android</a> il me fallait bien tester Chrome OS pour me faire ma propre idée, et bien je ne suis pas déçu.
 

@@ -50,6 +50,7 @@ tags:
   - enceintes
   - musique
   - rega
+fimg: 2014/01/DSC05959.jpg
 ---
 Écouter de la musique quand le matériel est à la hauteur peut vous amenez au 7 ème ciel, non peut être pas quand même 😉 C&rsquo;est un peu comme prendre une belle photo quand le <a title="Le petit Sony A7r" href="http://localhost/2013/11/le-petit-sony-a7r/" target="_blank">matériel</a> est à la hauteur&#8230;  
 J&rsquo;ai investi dernièrement dans un ensemble cohérent afin de profiter de la musique dématérialisée que je stocke jalousement dans un disque dur externe (mon dieu ne me le volez pas !). Je suis un adepte de la musique dématérialisée, à l&rsquo;heure ou on nous parle de la seconde vie du vinyle moi je ne peux pas&#8230; J&rsquo;aime le son clair, pur sans parasites et puis j&rsquo;aime zappé la musique me créer des playlists comparer rapidement deux versions d&rsquo;une chanson remastérisée pour apprécier le travail de l&rsquo;ingénieur du son, bref ne me parlez pas de vinyle.

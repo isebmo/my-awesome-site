@@ -43,6 +43,7 @@ tags:
   - chrome
   - chrome os
   - chromebook
+fimg: images/2013/12/DSC05448.jpg
 ---
 <p class="p1">
   Le <a href="http://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21">chromebook</a> c&rsquo;est bien, mais c&rsquo;est aussi limité par rapport à un ordinateur classique. Une des choses qui m&rsquo;agace le plus c&rsquo;est qu&rsquo;il se met en veille tout seul même si Spotify ou une lecture d&rsquo;un service est en cours. Quoi de plus rageant que de chromecaster de la musique sur votre chromecast si le <a href="http://www.amazon.fr/gp/product/B00G69Z23E/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00G69Z23E&linkCode=as2&tag=tfadafr-21">chromebook</a> s&rsquo;arrête tout seul !

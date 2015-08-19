@@ -43,6 +43,7 @@ tags:
   - android
   - lg
   - tablette
+fimg: 2013/11/DSC04996-1024x682.jpg
 ---
 Ancien drogué des produits Apple, je me tourne de plus en plus vers les produits du redoutable Big Brother : Google. Après avoir délaissé mes iphone je suis allé faire un tour du côté des nexus. Je trouve Android vraiment plus brouillon qu’iOS, mais définitivement plus efficace. Tout va plus vite sur Android vous envoyez des informations d&rsquo;une application à une autre avec une facilité déconcertante. Bref je ne vais pas m&rsquo;étendre plus sur le système Android dans cet article, chaque chose en son temps.
 

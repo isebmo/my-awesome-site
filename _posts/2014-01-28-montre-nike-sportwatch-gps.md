@@ -44,6 +44,7 @@ tags:
   - gps
   - nike
   - sport
+fimg: 2014/01/DSC06411.jpg
 ---
 <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B009A77MSC" target="_blank">L’iPod</a> des montres de sport: je vous présente la <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007PBJXUU" target="_blank">Nike+ Sportwatch GPS</a>. C’est une <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=tfadafr-21&o=8&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B007PBJXUU" target="_blank">montre</a> de sport qui comptabilise le nombre de kilomètres que vous avez effectués ainsi que votre parcours. Cette montre est orientée grand public, ne cherchez pas à tirer des graphiques ou analyses très poussées de vos entrainements (comme chez Garmin par exemple), elle est là pour vous motiver et enregistrer vos séances de footing point. Les pros, passez votre chemin&#8230;
 

@@ -43,6 +43,7 @@ categories:
 tags:
   - apple
   - mavericks
+fimg: 2014/01/Capture-d’écran-2014-01-29-à-11.37.25.png
 ---
 <span style="line-height: 1.5em;">Vous voulez partager vos photos et vos films de vacances avec vos amis, mais ils vous ont donné un disque dur formaté en NTFS ? C&rsquo;est dommage, passé les remarques « il est nul ton Mac, même mon netbook à 100€ peut le faire », alors vous vous empressez de regarder sur internet quelle est la procédure. Et c&rsquo;est là que vous tombez sur cet article <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>  
 Commencez par télécharger les utilitaires suivants, je mets les liens, mais libre à vous d&rsquo;aller les chercher sur leur site officiel respectif.

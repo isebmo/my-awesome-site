@@ -44,6 +44,7 @@ categories:
   - HighTech
 tags:
   - sport
+fimg: 2014/02/DSC06469.jpg
 ---
 Moi aussi j’ai succombé à la mode des bracelets connectés avec le <a href="http://www.amazon.fr/gp/product/B00BQ9DOXE/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00BQ9DOXE&linkCode=as2&tag=tfadafr-21" target="_blank">Jawbone Up</a>. Il faut dire qu’il y a le choix et ce n’est pas près de s’arrêter pour l’année à venir. Mais comment faire son choix entre les différents bracelets <a href="http://www.amazon.fr/gp/product/B00DTUUA1C/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00DTUUA1C&linkCode=as2&tag=tfadafr-21" target="_blank">Nike+ Fuelband</a>, <a href="http://www.amazon.fr/gp/product/B00CIV6990/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00CIV6990&linkCode=as2&tag=tfadafr-21" target="_blank">Fitbit</a> and co ? Tout d’abord j’ai acheté le Jawbone parce que je cherchais un réveil capable de me réveiller dans une phase légère du sommeil, après m’être renseigné, sur les réveils dédiés je n’ai pas été convaincu. Les réveils montres qui analysent vitre sommeil sont en général aussi encombrants qu&rsquo;une montre classique. Certains fonctionnent avec une base sans fil, le capteur envoie les informations à la base pour l&rsquo;analyse.
 

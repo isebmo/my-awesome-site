@@ -40,6 +40,7 @@ categories:
   - Applications
 tags:
   - apple
+fimg: 2014/03/Capture-d’écran-2014-03-13-à-11.45.53.png
 ---
 <span style="line-height: 1.5em;">Comment lire rapidement des vidéos sur votre <a href="http://www.amazon.fr/gp/product/B007IH5L7A/ref=as_li_ss_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007IH5L7A&linkCode=as2&tag=tfadafr-21">Apple TV</a> sans les réencoder ? Tout simplement avec beamer. Cette petite application payante mérite amplement son prix 15€ si mes souvenirs sont exacts.</span>
 
