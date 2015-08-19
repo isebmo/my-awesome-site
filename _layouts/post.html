@@ -16,9 +16,9 @@ layout: default
             <div class="text-justify post-content">{{ content }}</div>
             <div class="row">
                 <div class="columns small-6 small-offset-3 medium-4 medium-offset-4 text-center">
-                    <div class="columns small-4 text-center"><a href="#"><i class="fa fa-facebook"></i></a></div>
-                    <div class="columns small-4 text-center"><a href="#"><i class="fa fa-twitter"></i></a></div>
-                    <div class="columns small-4 text-center"><a href="#"><i class="fa fa-google-plus"></i></a></div>
+                    <div class="columns small-4 text-center"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"><i class="fa fa-facebook"></i></a></div>
+                    <div class="columns small-4 text-center"><a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via={{ site.data.author['iSebmo'].twitter_u }}"><i class="fa fa-twitter"></i></a></div>
+                    <div class="columns small-4 text-center"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"><i class="fa fa-google-plus"></i></a></div>
                 </div>
 
             </div>
