@@ -21,6 +21,7 @@ tags:
   - amazon
   - apple
   - reconditionné
+fimg: 2015/01/amazon.jpg
 ---
 Cela fait 2 fois que j’achète des produits reconditionnés Amazon. Une première fois pour l’écran [DELL 24 pouces][1] et une seconde fois pour un [SSD Samsung EVO 840 de 1 To][2]. À chaque fois j’ai des problèmes avec ces articles… Il faudrait arrêter de prendre les clients pour des idiots. Si un client renvoie un produit, car non conforme, Amazon se doit de le renvoyer au constructeur et *PAS* de le remettre en vente un peu moins chère, c’est *scandaleux*.
 

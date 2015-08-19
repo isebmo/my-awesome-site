@@ -40,6 +40,7 @@ categories:
 tags:
   - firefox
   - vidéo
+fimg: 2014/ipod-video-1243383-640x480.jpg
 ---
 Vous avez accès à une vidéo Viméo (ou tout autre servive ce streaming) en streaming depuis un site de cours en ligne par exemple et vous aimeriez pouvoir *télécharger* la vidéo pour la regarder *tranquillement* dans les transports en commun ? C’est possible avec [l’extension Firefox][1] en autres, il doit exister beaucoup d’autres moyens, mais cette extension vous facilite la vie.
 

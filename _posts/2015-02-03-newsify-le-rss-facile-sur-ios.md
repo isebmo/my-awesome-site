@@ -20,6 +20,7 @@ tags:
   - ios
   - ipad
   - iphone
+fimg: 2015/newspaper-1489009-640x480.jpg
 ---
 Cela faisait un moment que je cherchais à remplacer le célèbre [feedly][1] sur iOS. Si vous êtes adepte des flux RSS pour suivre vos sites préférés, ces applications vous facilitent la vie. Ce n’est pas qui soit mauvais, mais il manque une fonctionnalité primordiale pour moi c’est la *fonction [mobilizer][2]*. Cette fonction qui vous permet de lire un article dépourvu de toute gêne. Un peu à la manière de la fonctionnalité lecture de safari qui le fait préférer safari à Chrome sur iOS.  
 [<img class="aligncenter  wp-image-740" src="{{ site.baseurl }}/images/2015/02/newsify1-576x1024.png" alt="newsify1" width="435" height="773" />][3]  

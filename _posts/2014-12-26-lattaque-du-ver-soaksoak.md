@@ -11,6 +11,7 @@ categories:
   - Geek
 tags:
   - wordpress
+fimg: 2014/01/hairy-worm-1501588-640x480.jpg
 ---
 Ce blog a été victime du ver soaksoak. C&#8217;est du code malicieux qui s&#8217;installe sur les pages du blog grâce à une faille d&#8217;un plugin de wordpress, *RevSlider* en l&#8217;occurrence. 100 000 blog ont été bloqués par Google pour éviter qu&#8217;ils puissent être néfaste aux visiteurs qui visiteraient les blog infestés, dont le mien&#8230;
 

@@ -18,6 +18,7 @@ categories:
 tags:
   - album
   - musique
+fimg: 2015/01/tryo.jpg
 ---
 Tryo sort un [nouvel album][1]… De *reprises*. Certaines mauvaises langues diront qu’ils ne se sont pas foulés d’autres diront que les chansons reprises ont été bien sélectionnées.  
 C’est cette deuxième option que je préfère vous parler. Il est vrai que la mode en ce moment c’est de reprendre des tubes qui ont bien fonctionné et en faire un album, à l’image de la [bande à Renaud][2].

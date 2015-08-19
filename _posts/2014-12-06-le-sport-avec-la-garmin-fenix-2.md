@@ -47,6 +47,7 @@ tags:
   - gps
   - sport
   - vélo
+fimg: 2014/12/Garmin-Fénix-2-1.jpg
 ---
 La [montre][1] à tout faire de Garmin. Elle *excelle* presque partout.
 

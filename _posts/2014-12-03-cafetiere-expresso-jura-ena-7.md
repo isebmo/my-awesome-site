@@ -45,6 +45,7 @@ categories:
 tags:
   - expresso
   - jura
+fimg: 2014/12/jura-ena-7-2.jpg
 ---
 Si comme moi vous êtes *accros* au café, mais pas n’importe quel café le vrai le bon celui qu’on choisit chez son torréfacteur préféré alors vous allez adorer cette [cafetière][1].
 

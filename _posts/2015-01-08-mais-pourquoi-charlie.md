@@ -15,6 +15,7 @@ dsq_thread_id:
   - 3400784198
 categories:
   - ByTheWay
+fimg: 2015/01/IMG_0473.jpg
 ---
 Mais pourquoi autant de haine ? Comment des gens peuvent en arriver à répondre à des coups de crayon par des Kalashnikov ?
 

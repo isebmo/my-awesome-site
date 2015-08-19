@@ -46,6 +46,7 @@ tags:
   - photo
   - samyang
   - sony
+fimg: 2014/12/Samyang-14mm-2.jpg
 ---
 L’une des faiblesses du [Sony a7r ][1]est son manque d’objectifs dédiés. Ce manque sera bientôt comblé début d’année 2015, car de nombreux objectifs devraient sortir leur bout du nez. J’attends avec impatience de pouvoir tester la gamme *[16–35mm][2], [24–70mm][3] et [70–200mm][4]* en f4 constant.  
 En attendant je vais vous présenter l&rsquo;ultra grand angle de [Samyang 14MM][5], un grand-angle vraiment *bon marché*.

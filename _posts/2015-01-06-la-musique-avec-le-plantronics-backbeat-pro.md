@@ -21,6 +21,7 @@ tags:
   - casque
   - musique
   - plantronics
+fimg: 2015/01/Plantronics-Backbeat-Pro-1.jpg
 ---
 J’ai succombé à la mode des casques audio proéminents ! Je me suis offert le [Plantronics Backbeat Pro][1] pour changer des casques [Beats][2].  
 Adepte des écouteurs [intra auriculaires][3], pour leur qualité d’insonorisation, j’ai voulu tenter un casque circum aural avec système de réduction de bruit. Et bien, je ne suis pas déçu de mon choix.

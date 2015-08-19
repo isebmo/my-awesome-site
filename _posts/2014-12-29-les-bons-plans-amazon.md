@@ -15,6 +15,7 @@ dsq_thread_id:
   - 3373010453
 categories:
   - Geek
+fimg: 2015/01/another-boring-summer-1397529-639x423.jpg
 ---
 Les bons plans [Amazon][1], la bonne blague… Je ne supporte pas ces sites qui ne font que relayer de l’information voir carrément vous signale des *bons plans* qui n’en sont pas. Durant les fêtes vous avez sûrement pu voir la prolifération de soi-disant bons plans Amazon. Les sites vous font part de leurs bons plans bidons, genre 5 ou 10% sur un produit qui n’auraient même pas acheté lui-même.
 

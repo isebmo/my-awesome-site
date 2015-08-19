@@ -16,6 +16,7 @@ dsq_thread_id:
 categories:
   - HighTech
   - Photo
+fimg: 2015/01/Sony-A7r-2-5.jpg
 tags:
   - a7
   - a7r

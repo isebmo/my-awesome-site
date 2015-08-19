@@ -42,6 +42,7 @@ categories:
 tags:
   - blues
   - musique
+fimg: 2014/guitar-2-1496454-1280x960.jpg
 ---
 J’ai découvert ce groupe de *blues* au festival [motor and blues de Dax][1] et je dois dire que j’ai pris une *claque* à ce moment là. Je ne suis pas forcément un inconditionnel du genre, mais j’aime le blues genre [John Lee Hooker][2] par exemple. Mais [Mountain Men][3] n’a rien à voir avec ce genre de blues, c’est d’abord un duo qui se complète merveilleusement. **Mr Mat au chant a une présence exceptionnelle** qui vous scotche dès ses premières paroles, sans parler de l’accompagnement *enivrant* à l’harmonica de Barefoot Iano.  
 C’est un *groupe franco australien*, c’est assez rare pour le préciser. Vous ne l’entendrez pas a la radio et c’est bien dommage ça changerait de toute la merde qui a l’habitude d’y passer.

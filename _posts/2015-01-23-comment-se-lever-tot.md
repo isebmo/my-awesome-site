@@ -17,6 +17,7 @@ categories:
   - Développement personnel
 tags:
   - méthode
+fimg: 2015/01/alarm-clock-219613_1280-1024x768.jpg
 ---
 Comment se réveiller comme une *fleur* le matin ? Et bien comme une fleur ce n’est presque pas possible sinon personne n’aurait de problème… Mais pour vous faciliter la tâche, il existe quelques méthodes ou plutôt des conseils.  
 Tout d’abord, il faut un réveil (pas bête hein?). Personnellement, j’utilise le réveil [Philips][1] qui possède une *led intégrée* qui permet d’activer la lumière en même temps que la radio. Vous pouvez mettre une *alarme* simple ou des *chants d’oiseaux*, mais je ne suis pas un grand fan des levés avec des *bruits bizarres*.
