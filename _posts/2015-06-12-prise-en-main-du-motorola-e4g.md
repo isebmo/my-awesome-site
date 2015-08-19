@@ -19,6 +19,7 @@ tags:
   - android
   - motorola
   - téléphone
+fimg: 2015/06/motorola-e4g-1.jpg
 ---
 J’ai pu mettre la main sur le [Motorola E4g][1] «vêtu» de la dernière version [Android 5][2] sans surcouche, et bien je suis épaté de trouver un téléphone de si bonne facture pour seulement une centaine d’euros.
 

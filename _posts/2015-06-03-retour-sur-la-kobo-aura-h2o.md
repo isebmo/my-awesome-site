@@ -19,6 +19,7 @@ tags:
   - kobo
   - liseuse
   - tablette
+fimg: 2015/06/kobo-h2o1.jpg
 ---
 Nouvelle [Kobo aura h2o][1] pour lire sous **l’eau** ?  
 Kobo met à jour sa Kobo haut de gamme avec ce petit lifting apporté à la [Kobo aura HD][2] dont j’avais déjà loué ses qualités sur ce blog.

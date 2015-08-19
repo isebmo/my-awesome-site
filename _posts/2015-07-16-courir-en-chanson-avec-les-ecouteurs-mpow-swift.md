@@ -21,6 +21,7 @@ tags:
   - écouteurs
   - footing
   - sport
+fimg: 2015/07/Mpow-Swift.jpg
 ---
 J’aime bien faire du sport en musique, je réserve les écouteurs aux pratiques sportives qui ne sont pas dangereuses avec le port du casque comme le running sur chemin ou le crossfit.  
 Après avoir essayé une [paire d’oreillettes][1] qui faisaient aussi office de [lecteur MP3][1], je me suis mis à la recherche d’une paire d’oreillettes Bluetooth afin de pouvoir profiter du nouveau service Apple Music. J’ai porté mon dévolu sur la [paire Mpow Swift][2], et tout ce que je peux dire c’est que je suis ravi.

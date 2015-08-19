@@ -20,6 +20,7 @@ tags:
   - app
   - apple
   - lightroom
+fimg: 2015/03/BitTorrent_Sync_Image_2.png
 ---
 Avec la sortie de [Bittorrent Sync][1] il est temps d’en parler. Cette application vous permet de **remplacer Dropbox** du moins en partie. Pour la remplacer, il faudrait que les données passent par un serveur et soient versionnées ce qui n’est pas le cas ici. Tous les échanges se font **sans passer par un quelconque serveur** du moins pour les données.
 

@@ -15,6 +15,7 @@ dsq_thread_id:
   - 3959189110
 categories:
   - Geek
+fimg: 2015/07/Rasoir-Merkur.jpg
 ---
 Fini les Gillette 46 lames et compagnie qui **coûtent un bras**. Tellement cher que les lames portent des **antivols** ! J’ai rangé mon [rasoir électrique][1] bien **pratique** en voyage et en déplacement.
 

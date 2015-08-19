@@ -17,6 +17,7 @@ categories:
   - Cuisine
 tags:
   - cuisine
+fimg: 2015/05/specialT2.jpg
 ---
 Un bon de réduction de 50€ pour l&rsquo;achat d&rsquo;une machine Spécial T pour Pâques.
 

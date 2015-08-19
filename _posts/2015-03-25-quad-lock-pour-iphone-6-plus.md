@@ -21,6 +21,7 @@ tags:
   - iphone
   - téléphone
   - vélo
+fimg: 2015/03/wpid-Quad-lock-iPhone-6-2.jpg
 ---
 [Quad Lock][1] a enfin sorti sa coque pour iPhone 6 plus ! Je suis littéralement fan des produits de la marque Quad Lock, car ils ont créé un *écosystème* autour des supports de téléphone du moins des iPhone qui reste le *meilleur* du moment.  
 ![quad lock][2]

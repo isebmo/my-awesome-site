@@ -12,6 +12,7 @@ url: "http://tfada.fr" # the base hostname & protocol for your site
 amazon_url: "http://www.amazon.fr/?tag=tfadafr-21"
 
 permalink: none
+img: /images/
 
 # Build settings
 markdown: kramdown

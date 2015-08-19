@@ -1,9 +1,8 @@
 var articleManager = (function () {
-    var baseurl = window.location.hostname === 'localhost' ? '' : '/my-awesome-site';
     var posts = localStorage.getItem('posts');
 
     if (!posts) {
-        $.getJSON(baseurl + '/all-posts.json', function (data) {
+        $.getJSON('/all-posts.json', function (data) {
             localStorage.setItem('posts', JSON.stringify(data["posts"]));
         });
     }

@@ -14,8 +14,7 @@ $(function () {
     $(window).scroll(function (e) {
         if (!postURLs) {
             // Load the JSON file containing all URLs
-            var baseurl = window.location.hostname === 'localhost' ? '' : '/my-awesome-site';
-            $.getJSON(baseurl + '/all-posts.json', function(data) {
+            $.getJSON('/all-posts.json', function(data) {
                 postURLs = data["posts"];
 
                 // If there aren't any more posts available to load than already visible, disable fetching

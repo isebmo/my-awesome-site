@@ -19,6 +19,7 @@ tags:
   - cuisine
   - recette
   - sushi
+fimg: 2015/02/Sushi2.jpg
 ---
 LA recette des sushis
 

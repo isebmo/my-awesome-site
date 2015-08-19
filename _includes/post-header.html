@@ -1,11 +1,7 @@
 <header class="post-header row small-collapse">
     <div class="medium-12 columns">
         {% if page.fimg %}
-            {% if page.fimg.local == true %}
-            <img src="{{ site.baseurl }}/images/{{ page.fimg.img }}">
-            {% else %}
-            <img src="{{ page.fimg.img }}">
-            {% endif %}
+            <img src="{{ site.img }}{{ page.fimg }}">
         {% else %}
             <img src="http://lorempixel.com/1280/960/nature">
         {% endif %}

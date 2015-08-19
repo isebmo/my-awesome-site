@@ -23,6 +23,7 @@ tags:
   - objectif
   - photo
   - sony
+fimg: 2015/06/sigma-105-sony-a7r-3.jpg
 ---
 En attendant l’objectif macro de [Sony][1], le [90mm f2.8 G][1], je n’ai pas pu résister à l’essai du [Sigma 105mm macro f2.8][2] *stabilisé*.
 

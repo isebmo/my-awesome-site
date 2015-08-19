@@ -16,6 +16,7 @@ dsq_thread_id:
 categories:
   - Cuisine
   - HighTech
+fimg: 2015/05/specialT2.jpg
 ---
 Une machine à *thé*, oui pourquoi pas, mais une machine à **capsules**, pour quoi faire ?
 
