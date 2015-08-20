@@ -44,6 +44,7 @@ tags:
   - garmin
   - sport
   - strava
+fimg: 2014/11/Garmin-Edge-Touring-3.jpg
 ---
 Le site Strava associé au [Garmin Edge Touring][1] est un tandem de *choc* pour commencer le cycliste sur route, pour ma part, mais aussi pour le VTT.
 

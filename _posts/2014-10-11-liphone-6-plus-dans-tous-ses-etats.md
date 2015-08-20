@@ -52,6 +52,7 @@ tags:
   - iphone
   - retina
   - téléphone
+fimg: 2014/10/DSC07416-1.jpg
 ---
 Cela fait deux semaines que j’ai reçu mon [iPhone 6 plus][1]. J’ai opté pour le modèle gris sidéral et 128go. Pour faire simple et vous éviter de lire la suite de l’article, j’en suis très content, mais comme toujours il reste encore du boulot pour atteindre la perfection. Si vous voulez en savoir plus, voici un petit test de la bête.
 

@@ -45,6 +45,7 @@ tags:
   - photo
   - sony
 format: link
+fimg: 2014/11/smugmug-1024x512.png
 ---
 [Smugsmug][1] est un service de *partage* de photos à la manière de [Flickr][2] mais qui a du mal à trouver son publique notamment en France. Le service n’étant pas traduit en français pour le moment je ne vois que ça comme explication à ce désamour.
 

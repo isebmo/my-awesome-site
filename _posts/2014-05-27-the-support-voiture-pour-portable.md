@@ -44,6 +44,7 @@ categories:
 tags:
   - iphone
   - téléphone
+fimg: 2014/05/DSC06948.jpg
 ---
 [Voici un support voiture ][1]petit et efficace. Le téléphone portable est attaché en moins de temps qu&rsquo;il en faut pour le dire et roulez! La matière est agréable, [il][1] est en caoutchouc pour ne pas abîmer vôtre précieux&#8230;
 

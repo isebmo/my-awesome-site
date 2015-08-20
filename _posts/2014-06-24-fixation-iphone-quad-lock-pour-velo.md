@@ -42,6 +42,7 @@ categories:
 tags:
   - apple
   - sport
+fimg: 2014/06/DSC07270-1-1024x683.jpg
 ---
 <p class="p1">
   Dans la série quad lock je vous présente la fixation pour vélo. Suivra ensuite Le test de la fixation pour moto, voiture et running.

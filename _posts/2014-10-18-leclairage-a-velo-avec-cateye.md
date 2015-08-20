@@ -49,6 +49,7 @@ categories:
 tags:
   - sport
   - vélo
+fimg: 2014/10/DSC07419.jpg
 ---
 Pour celles et ceux qui cherchent de quoi rester visible la nuit à vélo je leur conseille ces éclairages [avant][1] et [arrière][2] de la marque [cateye][3]. Ces produits sont très bien finis. Contrairement à d’autres systèmes ils possèdent des [piles AAA ][4]bien plus faciles à trouver dans le commerce que des [petites piles][5].
 

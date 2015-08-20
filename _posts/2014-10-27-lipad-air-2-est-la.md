@@ -45,6 +45,7 @@ tags:
   - apple
   - ipad
   - tablette
+fimg: 2014/10/DSC07446-1024x683.jpg
 ---
 Déjà reçu mon [iPad Air 2][1], je ne peux plus m’en passer. La finesse de cette tablette est incroyable ! Encore plus fine que mon [iPhone 6 Plus][2] !
 

@@ -42,6 +42,7 @@ categories:
 tags:
   - apple
   - iphone
+fimg: 2014/10/IMG_0235.jpg
 ---
 Si vous cherchez une protection d’écran digne de confiance pour votre iPhone je vous recommande [celle-ci][1]. C’est une protection en verre trempé qui est beaucoup plus résistante que les [protections][2] sous forme de film plastique que vous avez sûrement l’habitude d’utiliser.
 

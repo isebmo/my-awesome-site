@@ -38,6 +38,7 @@ categories:
 tags:
   - app
   - productivité
+fimg: 2014/10/image001.png
 ---
 Je m’apprêtais à faire un article sur l’excellent service [Todoist][1] quand [François Cuneo][2] du site [Cuk.ch][3] m’a coupé l’herbe sous le pied en sortant [un article ultra complet][4] sur le même service. C’est pourquoi comme je ne ferai pas mieux je vous conseille de lire l’article directement [ici][4].
 

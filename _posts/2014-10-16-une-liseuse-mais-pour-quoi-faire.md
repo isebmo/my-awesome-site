@@ -46,6 +46,7 @@ categories:
   - HighTech
 tags:
   - tablette
+fimg: 2014/10/DSC07395.jpg
 ---
 Une [liseuse][1] à la différence d’une tablette traditionnelle sert avant tout à lire, son avantage est d’avoir un **écran qui ne fatigue pas les yeux** et qui reste lisible en plein soleil. Un autre avantage serait le **prix**, disons qu’il est plus facile de l’emmener à la plage qu’un iPad qui coute 5x plus cher. Enfin le format, une liseuse est beaucoup plus **légère** qu’une tablette et les dimensions se rapprochent d’un livre de poche qu’il est plus facile en emporter partout (transport en commun). **L’autonomie**, oui avec une liseuse fini les recharges quotidiennes, vous pouvez lire plusieurs semaines sans voir une prise de courant…  
 Je vous présente rapidement les atouts de cette [Kobo Aura HD][1] et pourquoi la je l’a préfère au [Kindle][2].

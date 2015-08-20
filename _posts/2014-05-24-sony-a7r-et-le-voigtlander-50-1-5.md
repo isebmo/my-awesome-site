@@ -51,6 +51,7 @@ tags:
   - a7r
   - photo
   - voigtlander
+fimg: 2014/05/DSC06480.jpg
 ---
 Pour accompagner mon objectif automatique [Zeiss 35mm en monture FE][1], j&rsquo;ai investi quelques euros (~700€) dans un objectif lumineux.  
 Mon dévolu c&rsquo;est projeté sur le Voigtlander 50mm, mais en version 1.5 après ma mauvaise aventure avec la version 1.1 ([voir mon article sur ce dernier][2]).

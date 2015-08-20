@@ -42,6 +42,7 @@ categories:
   - HighTech
 tags:
   - neato
+fimg: 2014/11/Neato-2-1024x683.jpg
 ---
 Plus besoin de faire le ménage, ou presque…
 

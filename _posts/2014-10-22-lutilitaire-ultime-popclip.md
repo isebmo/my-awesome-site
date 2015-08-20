@@ -48,6 +48,7 @@ tags:
   - ipad
   - iphone
   - mac
+fimg: 2014/10/Capture-d’écran-2014-10-18-à-19.35.52.png
 ---
 Il y a des fois, des logiciels qui font que vous êtes *contents* d’être sur Mac, et c’est le cas de nombreux d’entres eux ([antidote][1], [byword][2]…) et bien [Popclip][3] s’ajoute à cette longue liste. Si vous avez le prix d’un Bigmac à dépenser essayez [le][3] vous ne serez *pas déçu*.  
 C’est un utilitaire qui permet d’afficher un petit menu à la manière de celui que vous voyez sous iOS lorsque vous sélectionnez un mot.

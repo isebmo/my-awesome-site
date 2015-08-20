@@ -39,6 +39,7 @@ dsq_thread_id:
   - 3392467457
 categories:
   - HighTech
+fimg: 2014/11/chargeur-voyage-2-1024x683.jpg
 ---
 Vous voyagez souvent ? Et vous embarquez plusieurs appareils avec vous ? Alors ce [chargeur][1] est fait pour vous. Il vous permet de brancher jusqu’à 4 appareils qui se rechargent sur *l’USB*. Il existe un modèle à [2][1],[4][1] ou [5][1] prises. Vous pouvez opter pour le modèle avec [rallonge électrique][1] ou celui qui se branche [directement][1] sur la prise.
 

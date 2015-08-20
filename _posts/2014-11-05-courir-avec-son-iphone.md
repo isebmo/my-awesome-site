@@ -46,6 +46,7 @@ tags:
   - apple
   - iphone
   - sport
+fimg: 2014/10/quadlock-brassard-1024x683.jpg
 ---
 Le système de fixation [quad lock][1] que je vous ai déjà présenté dans un [précédent article][2] se décline [ici][3] dans la version **Brassard** pour les personnes qui courent avec leur téléphone au bras.
 

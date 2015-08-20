@@ -41,6 +41,7 @@ tags:
   - enceintes
   - mac
   - rega
+fimg: 2014/11/appleTv-1.jpg
 ---
 # Faut il acheter une Apple TV ?
 

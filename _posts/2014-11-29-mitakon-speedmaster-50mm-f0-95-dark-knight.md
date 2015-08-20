@@ -45,6 +45,7 @@ tags:
   - mitakon
   - photo
   - voigtlander
+fimg: 2014/11/Mitakon-Bokeh.jpg
 ---
 &nbsp;
 
