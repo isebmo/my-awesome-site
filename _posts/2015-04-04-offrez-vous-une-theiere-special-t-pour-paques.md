@@ -1,6 +1,6 @@
 ---
 id: 788
-title: Offrez vous une théière Special T pour Paques
+title: Offrez vous une théière Spécial T pour Pâques
 author: iSebmo
 layout: post
 guid: http://localhost/?p=788
