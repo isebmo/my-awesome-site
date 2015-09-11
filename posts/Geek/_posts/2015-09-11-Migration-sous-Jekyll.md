@@ -1,5 +1,5 @@
 ---
-title: Kit de barbus pour pas cher
+title: Migration du blog sous Jekyll
 author: iSebmo
 layout: post
 categories:
