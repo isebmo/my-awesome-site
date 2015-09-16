@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apple se suiveur"
+title:  "Apple ce suiveur"
 description: Depuis quelques années je trouve qu'Apple suit plus qu'il n'innove.
 categories: Geek
 tags: Apple
