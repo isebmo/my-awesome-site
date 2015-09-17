@@ -5,7 +5,7 @@ description: Faites développer vos photos numériques gratuitement tous les moi
 tags: photos,freeprints 
 categories: Photo 
 author: iSebmo
-fimg: "2015/09/freeprints.jpg"
+fimg: 2015/09/freeprints.jpg
 ---
 Dernièrement j'ai eu besoin de faire développer des photos. Je n'avais pas forcément besoin d'une grande qualité donc je ne voulais pas y mettre beaucoup d'argent. Mais je ne m'attendais pas à trouver un service **gratuit** !
 
