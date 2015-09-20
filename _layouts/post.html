@@ -51,7 +51,16 @@ layout: default
     <div style="margin-top: 3em" class="row">
         <div class="large-8 large-offset-2 medium-10 medium-offset-1 columns post-content-container">
             <div class="note text-center">commentaires</div>
-<div id="disqus_thread"></div>
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+            /* commentaires disqus */
+                var disqus_shortname = 'tfada';
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
         </div>
 
     </div>
