@@ -9,6 +9,8 @@ var prefix = require('gulp-autoprefixer');
 var concat = require("gulp-concat");
 var uglify = require("gulp-uglify");
 
+var imagemin = require('gulp-imagemin');
+
 var sourcemaps = require("gulp-sourcemaps");
 
 var cp = require('child_process');
@@ -85,6 +87,14 @@ gulp.task('watch', function () {
     gulp.watch('_sass/**/*.scss', ['sass']);
     gulp.watch('js/vendor/*.js', ['scripts-watch']);
     gulp.watch(['index.html', '_layouts/*.html', '_includes/*.html', '_posts/*'], ['jekyll-rebuild']);
+});
+
+gulp.task('imgoptim', function () {
+    return gulp.src('images/2015/**')
+        .pipe(imagemin({
+            progressive: true
+        }))
+        .pipe(gulp.dest('dist/images'));
 });
 
 /**
