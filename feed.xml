@@ -14,7 +14,6 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <img src="{{ post.fimg }}" height="667" width="1000"></img>
         <description>{{ post.content | xml_escape | truncate: 200, '...' }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
