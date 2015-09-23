@@ -14,6 +14,7 @@ amazon_url: "http://www.amazon.fr/?tag=tfadafr-21"
 permalink: none
 img: /images/
 default_tags: "apple,iphone,photos,sport,naturopathie,hightech"
+rsslink: http://feeds.feedburner.com/tfada
 
 # Build settings
 markdown: kramdown
