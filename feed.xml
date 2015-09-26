@@ -15,7 +15,7 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>
-          <![CDATA[<img src="{{ site.img }}{{ post.fimg }}"/>]]>
+          <![CDATA[<img src="{{ site.urlimg }}{{ post.fimg }}"/>]]>
           {{ post.description }}
         </description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
