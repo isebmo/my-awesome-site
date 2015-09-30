@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  Apple Watch utile où pas ?
