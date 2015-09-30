@@ -10,7 +10,7 @@ fimg: 2015/09/Apple Watch-2.jpg
 Apple watch, j'ai craqué... Honte à moi, moi qui pensais pouvoir laisser passer la première version mais non j'ai fait *l'early adopter* encore une fois. 
 Je suis allé la chercher à l'Apple store de Bordeaux, la blague... «félicitations monsieur pour l'achat de votre Apple Watch» quel sketch, c'était la première fois que j'achetais en magasin et ça sera sûrement la dernière. Du coup passé l'envie de rire, j'ai fait la configuration direct en magasin pour pouvoir en profiter immédiatement. Elle dure environ 15minutes c'est court mais long quand vous ne faites rien d'autre que regarder votre montre se configurer. 
 
-![Watch][{{ site.urlimg}}2015/09/Apple Watch-4.jpg]
+![Watch]({{ site.urlimg}}2015/09/Apple Watch-4.jpg)
 
 # Design
 Premier contact avec la bête elle est très *légère* et plutôt mignonne. Non elle n'est pas jolie, c'est clair quand on la compare à une montre haut de gamme IWC, TAG ou autres, elle ne joue pas dans la même catégorie. J'ai pris le modèle sport pour le *prix* en version *gris sidéral* et donc bracelet noir. Ce que j'aime dans le design c'est qu'elle est plutôt *discrète*, elle passerait presque incognito, ce que je cherchais. 
@@ -23,7 +23,7 @@ L'autonomie a été un point de discorde dans la presse suite à l'annonce des s
 Un point que je trouve juste mais dans la continuité de ce qu'apple a l'habitude de nous proposer c'est le manque de personnalisation de ma montre. Le nombre de cadrans sont assez limités, le cadran Mickey est sympa j'aurais aimé en avoir d'autres aussi bien. J'utilise personnellement le cadran modulaire qui me permet en un seul coup d'œil de visualiser l'autonomie restante, les événements calendrier, l'heure, la date, l'activité et la température extérieure. Le jour ou on pourra intégrer des données d'autres applis ça sera le top. 
 Les bracelets sont tristounets, à voir dans le temps ce que les fabricants proposeront. Pour l'heure j'ai le bracelet en noir qui au moins ne se salie pas trop vite. 
 
-![Watch][{{ site.urlimg}}2015/09/Apple Watch.jpg]
+![Watch]({{ site.urlimg}}2015/09/Apple Watch.jpg)
 
 # Les applications
 Le principal intérêt de l'Apple watch sur ses concurrents c'est la possibilité d'y installer des **applications**. C'est le (seul?) avantage de cette montre mais c'est aussi le plus important. Tout comme l'iPhone, **l'écosystème** des applications est un vrai plus et leur qualité surpasse largement ce qui se fait chez Android. 
