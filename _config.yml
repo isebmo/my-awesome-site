@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tfada.fr" # the base hostname & protocol for your site
 amazon_url: "http://www.amazon.fr/?tag=tfadafr-21"
 
-permalink: none
+permalink: /:title.html
 img: /images/
 urlimg: http://tfada.fr/images/
 default_tags: "apple,iphone,photos,sport,naturopathie,hightech"
@@ -26,3 +26,6 @@ collections:
   tweets:
     output: true
     permalink: /tweets/:path/
+
+gems:
+  - jekyll-sitemap
