@@ -2,7 +2,13 @@
 <nav id="menu">
     <!-- whatever you want goes here -->
     <ul style="text-transform:uppercase; text-align:center;">
-        <li><gcse:searchbox-only></gcse:searchbox-only></li>
+        <li><div class="container-4">
+            <form role="search" method="get" action="{{site.baseurl}}/search/">
+                <input id="search" name="searchString"
+                       placeholder="Rechercher..." type="text">
+                <button class="icon"><i class="fa fa-search"></i></button>
+            </form>
+        </div></li>
         <li style="border-bottom: 1px solid white; margin-bottom:1em;"><a href="#">Accueil</a></li>
         <li><a href="{{ site.baseurl }}/archives/">Archives</a></li>
         <li><a onclick="articleManager.showRandomArticle()" href="#">Au hasard</a></li>
