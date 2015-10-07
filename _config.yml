@@ -21,6 +21,7 @@ rsslink: http://feeds.feedburner.com/tfada
 markdown: kramdown
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+future: false
 
 collections:
   tweets:
