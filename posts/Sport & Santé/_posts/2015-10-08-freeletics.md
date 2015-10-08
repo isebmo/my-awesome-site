@@ -59,3 +59,4 @@ J'ai donc annulé mon abonnement de 3 mois, mais je continue de *surveiller* les
 [app]: https://itunes.apple.com/fr/app/freeletics-workout-training/id654810212?l=en&mt=8&at=1l3vs3Y
 [Crossfit]: http://www.amazon.fr/dp/2851808478/?tag=tfadafr-21
 [trx]: http://www.amazon.fr/dp/suspension/?tag=tfadafr-21
+ 
