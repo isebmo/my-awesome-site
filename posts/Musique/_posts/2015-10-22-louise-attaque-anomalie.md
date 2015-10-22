@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nouveau single Louise Attaque 10 ans après. 
-description:  
+description:  Louise Attaque revient 10 ans après avec le single Anomalie mais quelle déception.
 tags: musique 
 author: iSebmo
 #date: 2015-10-22
