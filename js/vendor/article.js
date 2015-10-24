@@ -25,7 +25,6 @@ var articleManager = (function () {
             var liIdClicked = $(this)[0].id;
             if (liIdClicked) {
                 sessionStorage.setItem('lastArticleId', liIdClicked);
-                alert(liIdClicked);
             }
         });
     }
