@@ -4,7 +4,7 @@ layout: default
 <!-- main content goes here -->
 <ul id="posts-list" class="medium-block-grid-2 xlarge-block-grid-3 ">
     {% for post in site.posts limit: 8 %}
-    <li >
+    <li id="{{ forloop.index0 }}">
         <a href="{{ site.baseurl }}{{ post.url }}">
             <div class="posts-list-container">
                 {% if post.fimg %}
@@ -24,7 +24,7 @@ layout: default
     </li>
     {% endfor %}
 </ul>
-
+<button id="loadMore" onclick="articleManager.loadMoreArticle()">La suite</button>
 <div class="infinite-spinner"></div>
 
 

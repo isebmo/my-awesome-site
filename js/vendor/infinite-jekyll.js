@@ -1,4 +1,4 @@
-$(function () {
+(function () {
 
     var postURLs,
         isFetchingPosts = false,
@@ -85,3 +85,5 @@ $(function () {
     }
 
 });
+
+
