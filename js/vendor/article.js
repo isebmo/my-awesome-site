@@ -35,7 +35,7 @@ var articleManager = (function () {
             posts = localStorage.getItem('posts');
 
             if (loadedArticles) {
-                loadArticle(artHomeNb - 1, loadedArticles - 1, JSON.parse(posts));
+                loadArticle(artHomeNb, loadedArticles - 1, JSON.parse(posts));
             }
         });
     }
@@ -58,7 +58,7 @@ var articleManager = (function () {
             from += 1;
         }
         attachArticleClickHandler($('#posts-list li'));
-        return from;
+        return from + 1;
     }
 
     function loadMoreArticle() {
