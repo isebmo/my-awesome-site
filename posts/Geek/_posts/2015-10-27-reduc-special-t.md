@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Bon de réduction pour la théière Spécial T
-description:  Voici deux bons de réduction pour l'achat d'une théière automatique de la marque Nespresso : Spécial T
+title:  Bon de réduction Spécial T
+description:  Voici deux bons de réduction pour l'achat d'une théière automatique de la marque Nespresso Spécial T
 tags: réduction 
 author: iSebmo
 #date: 2015-10-27
-fimg: 2015/10/reduction.special.t.jpg
+fimg: 2015/10/reduction.jpg
 ---
 
 Voici deux codes réduction à valoir sur l'achat d'une théière *Spécial T* dont j'ai déjà parlé sur ce blog. 
