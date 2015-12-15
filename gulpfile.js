@@ -69,7 +69,7 @@ gulp.task('sass', function () {
 
 
 gulp.task("scripts", function () {
-    return gulp.src(['js/vendor/jquery.min.js', 'js/vendor/foundation.min.js', 'js/vendor/fastclick.js', 'js/vendor/article.js', 'js/vendor/infinite-jekyll.js', 'js/vendor/placeholder.js', 'js/vendor/readingTime.min.js', 'js/vendor/app.js'])
+    return gulp.src(['js/vendor/jquery.min.js', 'js/vendor/foundation.min.js', 'js/vendor/fastclick.js', 'js/vendor/article.js', 'js/vendor/infinite-jekyll.js', 'js/vendor/placeholder.js', 'js/vendor/readingTime.min.js', 'js/vendor/app.js', 'js/vendor/timeline.js'])
         .pipe(sourcemaps.init())
         .pipe(concat("app.min.js"))
         .pipe(gulp.dest('js/'))

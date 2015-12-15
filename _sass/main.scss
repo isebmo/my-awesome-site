@@ -44,4 +44,4 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "foundation";
 @import "fontawesome/font-awesome";
-@import "posts","post","menu","general","search","github";
+@import "posts","post","menu","general","search","github", "timeline/timeline";

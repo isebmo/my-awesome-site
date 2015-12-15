@@ -2,22 +2,120 @@
 layout: page
 title: Archives
 permalink: /archives/
-fimg:
-    local: true
-    img: archives.jpg
-    credits:
-        author: "Marino González"
-        url: "https://flic.kr/p/9pCCAi"
 ---
 
-<ul id="posts-list" class="no-bullet">
+
+<section style="margin: 1em -7em" id="cd-timeline" class="cd-container">
     {% for post in site.posts %}
-    <li>
-        <h3 class="subheader">
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d/%m/%Y" }}: <em style="text-transform: lowercase">{{ post.title }}</em></a>
-        </h3>
-        <blockquote>{{ post.content | truncate: 100, '...'}}<cite>{{ site.data.author[post.author].nickname }}</cite></blockquote>
-    </li>
+    <div class="cd-timeline-block">
+        {% for cat in post.categories %}
+        {% if cat contains 'sport' %}
+        <div class="cd-timeline-img cd-sport">
+            <img src="/images/timeline/iconmonstr-favorite-3-icon.svg" alt="Picture">
+        </div>{% break %}
+        {% elsif cat contains 'geek' %}
+        <div class="cd-timeline-img cd-geek">
+            <img src="/images/timeline/iconmonstr-smiley-geek-icon.svg" alt="Picture">
+        </div>{% break %}
+        {% elsif cat contains 'applications' %}
+        <div class="cd-timeline-img cd-applications">
+            <img src="/images/timeline/iconmonstr-cube-icon.svg" alt="Picture">
+        </div>{% break %}
+        {% elsif cat contains 'hightech' %}
+        <div class="cd-timeline-img cd-hightech">
+            <img src="/images/timeline/iconmonstr-smartphone-4-icon.svg" alt="Picture">
+        </div>{% break %}
+        {% elsif cat contains 'musique' %}
+        <div class="cd-timeline-img cd-music">
+            <img src="/images/timeline/iconmonstr-disc-5-icon.svg" alt="Picture">
+        </div>{% break %}
+        {% endif %}
+        {% endfor %}
+
+        <div class="cd-timeline-content">
+            <h2>{{ post.title }}</h2>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="cd-read-more">Lire l'article</a>
+            <span class="cd-date">{{ post.date | date: "%d/%m/%Y" }}</span>
+        </div>
+    </div>
     {% endfor %}
-</ul>
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="/images/timeline/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h2>Title of section 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+            <a href="#0" class="cd-read-more">Read more</a>
+            <span class="cd-date">Jan 14</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+            <img src="/images/timeline/cd-icon-movie.svg" alt="Movie">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h2>Title of section 2</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
+            <a href="#0" class="cd-read-more">Read more</a>
+            <span class="cd-date">Jan 18</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+            <img src="/images/timeline/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h2>Title of section 3</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
+            <a href="#0" class="cd-read-more">Read more</a>
+            <span class="cd-date">Jan 24</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-location">
+            <img src="/images/timeline/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h2>Title of section 4</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+            <a href="#0" class="cd-read-more">Read more</a>
+            <span class="cd-date">Feb 14</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-location">
+            <img src="/images/timeline/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h2>Title of section 5</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
+            <a href="#0" class="cd-read-more">Read more</a>
+            <span class="cd-date">Feb 18</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+
+    <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-movie">
+            <img src="/images/timeline/cd-icon-movie.svg" alt="Movie">
+        </div> <!-- cd-timeline-img -->
+
+        <div class="cd-timeline-content">
+            <h2>Final Section</h2>
+            <p>This is the content of the last section</p>
+            <span class="cd-date">Feb 26</span>
+        </div> <!-- cd-timeline-content -->
+    </div> <!-- cd-timeline-block -->
+</section> <!-- cd-timeline -->
+
+
 
