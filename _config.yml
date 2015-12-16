@@ -19,7 +19,7 @@ rsslink: http://feeds.feedburner.com/tfada
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 future: false
