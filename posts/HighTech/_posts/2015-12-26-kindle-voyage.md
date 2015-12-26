@@ -11,7 +11,7 @@ fimg: 2015/12/Amazon%20Kindle%20Voyage-3.jpg
 Après avoir testé les liseuses Kobo, la dernière [Kindle Paperwhite][Kindle Paperwhite], je vous propose un retour sur la liseuse haut de gamme de Amazon à savoir la [Kindle Voyage][Kindle Voyage]. 
 Alors pourquoi voyage ? A priori à part  la présence de la 3G sur le modèle le plus cher, elle n'est pas plus ou moins transportable que le modèle [Kindle Paperwhite][Kindle Paperwhite].
 
-![kindle voyage](file:///Users/sebastienmouret/Documents/Export%20web/Amazon%20Kindle%20Voyage-2.jpg)
+![kindle voyage](/images/2015/12/Amazon%20Kindle%20Voyage-2.jpg)
 
 Ce qui surprend au premier abord c'est sa **légèreté**, elle pèse 40 grammes en moins par rapport à la [Kindle Paperwhite][Kindle Paperwhite] ce qui n'est pas négligeable et fait tomber le poids en dessous des 200 grammes. 
 Elle pèse 180 grammes contre 188 grammes pour le modèle 3G.
@@ -29,7 +29,7 @@ Malgré la présence de cette fonctionnalité, vous pouvez toujours tourner les 
 L'idée est très bonne, elle permet de tenir la liseuse à une main et de tourner la page *sans bouger le petit doigt*. C'est vraiment intéressant quand on tient la liseuse de la main gauche, il suffit alors tout simplement de presser la zone gauche de la liseuse pour que la page suivante soit tournée. 
 Sans cette possibilité, il faut tourner la page avec la main droite (trop dur pour un fainéant).
 
-![kindle voyage](file:///Users/sebastienmouret/Documents/Export%20web/Amazon%20Kindle%20Voyage.jpg)
+![kindle voyage](/images/2015/12/Amazon%20Kindle%20Voyage.jpg)
 
 # La luminosité automatique
 Une autre fonctionnalité super pratique, c'est l'ajout d'un **capteur** de luminosité qui permet d'ajuster l'écran de manière **automatique**. À la manière de ce que ferait une tablette ou votre téléphone, en plein soleil la liseuse pousse la luminosité à fond et au contraire en pleine nuit elle l'a diminue.
