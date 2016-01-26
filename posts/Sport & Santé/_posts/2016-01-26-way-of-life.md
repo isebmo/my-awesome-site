@@ -10,13 +10,15 @@ fimg: 2016/01/way-of-life.jpg
 
 Voici un petit article de développement personnel avec quelques conseils que j'ai voulu écrire pour m'en souvenir, et faire réagir. 
 
-* Ne repoussez pas à demain ce que vous pouvez faire maintenant (non pas aujourd'hui, *maintenant* là). Une belle lecture à sujet, je vous invite à lire "[le pouvoir du moment présent][pouvoir]" de Eckhart Tolle.
+* Ne repoussez pas à demain ce que vous pouvez faire maintenant (non pas aujourd'hui, *maintenant* là).
+
+* Vivez dans le présent, profitez du moment. Une belle lecture à sujet, je vous invite à lire "[le pouvoir du moment présent][pouvoir]" de Eckhart Tolle.
 
 * N'attendez pas la nouvelle année pour prendre de bonnes résolutions. Mettez en place des habitudes avec cette application [Way of life](https://geo.itunes.apple.com/fr/app/way-life-lapplication-ultime/id393159800?mt=8&at=1l3vs3Y). Secouez vous les premiers jours ensuite vous n'y penserez même plus en le faisant. 
 
 * Planifier ce que vous voulez faire un jour, demain, dans un mois ? Vous avez plein de logiciels pour vous organiser [TODOIST](https://geo.itunes.apple.com/fr/app/todoist-liste-des-taches-to/id572688855?mt=8&at=1l3vs3Y), [Trello](https://geo.itunes.apple.com/fr/app/trello/id461504587?mt=8&at=1l3vs3Y) par exemple. 
 
- ![méditer](/images/2016/01/me%CC%81diter.jpg)
+ ![méditer](/images/2016/01/mediter.jpg)
 
 * Éteignez la télé et lisez un bouquin ou un [livre numérique](pouvoir). 
 
