@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Focus: le bloqueur de pub de Mozilla
+title: Focus, le bloqueur de pub de Mozilla
 description: Quelle alternative à Adblock Plus et ses pratiques douteuses ? Focus est la solution propulsée par Mozilla sur iOS.
 tags: adblock,focus,pub
 author: iSebmo
