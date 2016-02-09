@@ -6,6 +6,7 @@ tags: sport,crossfit,lafay,freeletics
 author: iSebmo
 #date: 2015-10-05
 fimg: 2015/10/freeletics.jpg
+categories: Sport & Santé
 ---
 
 J'ai testé après la méthode Lafay, l'expérience Freeletics. Contrairement à la méthode, Lafay, [Freeletics][app] n'est pas une méthode, mais un plan d'entraînement. 
