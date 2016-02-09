@@ -5,7 +5,7 @@ description: Quelle alternative à Adblock Plus et ses pratiques douteuses ? Foc
 tags: adblock,focus,pub
 author: iSebmo
 #date: 2016-01-16
-fimg: 2016/01/mozilla.jpg
+fimg: 2016/02/mozilla.jpg
 ---
 
 Avec Focus, est-ce que le combat des bloqueurs de pub est relancé ? Je doute que l'entreprise se laisse **soudoyer** par la société d'Adblock Plus, pour ne filtrer que partiellement les pubs...
