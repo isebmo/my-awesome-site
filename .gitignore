@@ -3,3 +3,4 @@ _site
 .idea
 node_modules
 dist
+.DS_Store
