@@ -6,6 +6,9 @@ tags: vie
 author: iSebmo
 #date: 2015-10-05
 fimg: 2016/01/way-of-life.jpg
+categories:
+  - Développement personnel
+  - Sport & Santé
 ---
 
 Voici un petit article de développement personnel avec quelques conseils que j'ai voulu écrire pour m'en souvenir, et faire réagir. 
@@ -22,7 +25,7 @@ Voici un petit article de développement personnel avec quelques conseils que j'
 
 * Éteignez la télé et lisez un bouquin ou un [livre numérique](pouvoir). 
 
-* Choisissez vous mêmes votre programme télé. Il y a une multitudes de possibilités maintenant pour voir le film ou l'émission de votre choix, il n'y a plus qu'à choisir. Ne *subissez* pas la télé... Le replay est mon amis. Je choisis quand et quoi regarder. 
+* Choisissez vous mêmes votre programme tv. Il y a une multitudes de possibilités maintenant pour voir le film ou l'émission de votre choix, il n'y a plus qu'à choisir. Ne *subissez* pas la télé... Le replay est mon amis. Je choisis quand et quoi regarder.
 
 * Prenez le temps de préparer vos repas. Un tour sur [marmiton](http://marmiton.org), commandez ou allez faire vos courses et dégustez un bon repas pas cher. Et pourquoi pas faire [vos sushis vous mêmes](http://tfada.fr/2015/02/faites-vos-propres-sushis-cest-facile/). 
 
