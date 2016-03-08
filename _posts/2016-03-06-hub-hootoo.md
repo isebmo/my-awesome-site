@@ -11,6 +11,7 @@ fimg: 2016/03/hootoo.jpg
 ---
 
 Si vous possédez le dernier [MacBook](http://tfada.fr/MacBook.html), vous devez posséder ce [Hub](http://www.amazon.fr/HooToo-Shuttle-G%C3%A9n%C3%A9ration-dAluminium-Fourniture/dp/B01AFW52MS/ref=sr_1_5?ie=UTF8&qid=1457170643&sr=8-5&keywords=hootoo&tag=tfadafr-21) ! Il est l’accessoire **ultime** à avoir sur vous quand vous voyagez. Il possède:
+
 * un lecteur de carte SD
 * 3 prises USB
 * le meilleur pour la fin une prise HDMI !
