@@ -4,7 +4,7 @@ title: HooToo, le Hub USB-C pour MacBook
 description: Si vous cherchez le hub ultime pour votre MacBook, ne cherchez plus, voici HooToo, un hub avec prises USB, carte SD et prise HDMI.
 tags: hub,apple,macbook
 author: iSebmo
-# date: 2016-02-28
+date: 2016-03-08
 categories:
   - HighTech
 fimg: 2016/03/hootoo.jpg
